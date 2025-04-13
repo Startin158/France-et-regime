@@ -10,7 +10,7 @@
 		"cityHealth": 25,
   "requiredBuilding": "Castle",
 		"requiredTech": "Metallurgy"
-  "uniques": ["Destroyed when the city is captured", "[1] free [Soldat de l'armée Révolutionnaires française] units appear"]
+  "uniques": ["Destroyed when the city is captured", "[1] free [Soldat de l'armée Révolutionnaires française] appear"]
 	},
 	{
 		"name": "école républicaine",
@@ -24,7 +24,7 @@
   "maintenance": 3,
   "percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
-		"uniques": ["[+2 Science] from [forest] tiles [in this city]","[+1 Culture] from [Wine] tiles [in this city]"]
+		"uniques": ["[+2 Science] from [forest] tiles [in this city]","[+1 Culture] from [Wine] tiles [in this city]"],
 		"requiredTech": "Education"
 },
 {
@@ -35,6 +35,7 @@
   "happiness": 1,
   "science": 2,
   "production": 1,
+  "uniques": "Unbuildable"
 },
 {
  
@@ -43,11 +44,12 @@
   "happiness": 5,
   "science": 3,
   "production": 2,
-  "uniques" :["[Great Artist] is earned [100]% faster [in this city]","[Great Scientist] is earned [50]% faster [in this city]","[Great General] is earned [25]% faster [in this city]"]
+  "uniques" :["[Great Artist] is earned [100]% faster [in this city]","[Great Scientist] is earned [50]% faster [in this city]","[Great General] is earned [25]% faster [in this city]","Unbuildable"]
 },
 {
 "name": "Patrimoine",
 		"maintenance":3,
   "culture": 2,
+	 "uniqueTo": "Première République Française",
   "uniques":["[+1 Culture] from every [Academy] [in this city]","[+1 culture] from every [Manufactory] [in this city]","[+1 Culture] from every [Customs house] [in this city]","[+1 Culture] from  every [Holy site] [in this city]","[+1 Culture] from every [Citadel] [in this city]","[+1 Culture] from every  [Landmaek] [in this city]"]
 }]
