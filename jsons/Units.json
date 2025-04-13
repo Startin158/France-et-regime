@@ -8,7 +8,8 @@
 		"rangedStrength": 36,
 		"range": 2,
   "attackSound": "shot",
-  "uniques": "Unbuildable"
+  "cost": "2000",
+  "uniques": "Unbuildable",
   
 
 "name": "Citoyen Français engagé",
@@ -19,13 +20,14 @@
 		"strength": 20,
 		"cost": 50,
 		"requiredTech": "Gunpowder",
-		"attackSound": "shot"
+		"attackSound": "shot",
 
 "name": "Citoyen",
 		"unitType": "Sword",
 		"movement": 3,
 		"strength": 10,
 		"attackSound": "nonmetalhit",
-  "uniques": "Unbuildable" 
+  "cost": "2000",
+  "uniques": "Unbuildable",
 	}
 ]
