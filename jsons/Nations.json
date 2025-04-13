@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Première République Francaise",
+		"leaderName": "",
+		"adjective": ["démocratique"],
+		"startBias": ["plain"],
+		"preferredVictoryType": "culturel",
+		
+		"startIntroPart1": "Rendons sa liberté au peuple! faisons tomber la tyrannie! apportons la démocratie dans le monde!",
+		"startIntroPart2": "la France et ses idées révolutionnaires doivent se diffuser dans le monde, la démocratie doit être diffusé !",
+		
+		"declaringWar": "Vous n'êtes qu'un obstacle à la Révolution et a la démocratie, nous devons vous éliminer pour le bien de tous.",
+		"attacked": "Le peuple est avec nous! vous tyrans, tomberez face à la puissance des idées démocratiques !",
+		"defeated": "Vous nous avez peut être vaincus... Mais jamais vous ne pourrez faire taire les idées Révolutionnaires !",
+		"introduction": "Nous souhaitons créer une belle amitié avec vous, et vous partager nos idées si affinités.",
+		
+		"neutralHello": "Bonjour, comment allez vous ?",
+		"neutralLetsHearIt": ["Je vous prie de parler.","Que voulez vous ?","Nous sommes prêt à vous écouter."],
+		"neutralNo": ["Désole, nous refusons.","Nous avons voté, nous refusons","Les urnes ont parlé, votre requête est rejeté."],
+		"neutralYes": ["Le peuple accepte.","La majorité est d'accord.","Faisons cela,les votes sont pour."],
+
+		"hateHello": "Le peuple vous hais.",
+		"hateLetsHearIt": ["Parlez.","Dépêché vous à parler.","Allez-y, dites."],
+		"hateNo": ["Évidement,le peuple est contre."," Les urnes sont claires, personne ne veut coopèrer avec des tyrans.","La démocratie refuse tout accord avec votre dictature"],
+		"hateYes": ["Bon, nous acceptons.","Les votes sont mitigé,mais la majorité a accepté."," La tyrannie et la démocratie qui conclut un accord, quelle tragédie..."],
+		
+		"afterPeace": "Nous pension que vous partagiez nos idéaux de liberté, d'égalité et de fraternité. Nous voyons maintenant que vous n'êtes pas nos frères.",
+		"tradeRequest": "Nous espérons que vous acceptiez cette demande, pour le bien de nos deux peuples..",
+
+		"outerColor": [16,16,16],
+		"innerColor": [0,0,255],
+		"uniquenames": "La première démocratie moderne",
+  "uniques": ["[+1 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Hapiness] [in all cities]"]
+		"cities": ["Paris","","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
+"spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
+	}
+]

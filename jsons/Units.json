@@ -1,0 +1,31 @@
+[
+	{
+		 "name": "Soldat de l'armée Révolutionnaires française",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Première République Française",
+		"movement": 2,
+		"strength": 35,
+		"rangedStrength": 36,
+		"range": 2,
+  "attackSound": "shot"
+  "uniques" : ["[+7]% Strength bonus for [Military] units within [2] tiles", "Unbuildable"]
+  
+
+"name": "Citoyen Français engagé",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Première République Française",
+		"movement": 5,
+		"strength": 20,
+		"cost": 50,
+		"requiredTech": "Gunpowder",
+		"attackSound": "shot"
+
+"name": "Citoyen",
+		"unitType": "Sword"
+		"movement": 3,
+		"strength": 10,
+  "uniques":"unbuildable"
+		"attackSound": "nonmetalhit"
+	}
+]

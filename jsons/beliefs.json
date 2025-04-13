@@ -1,0 +1,20 @@
+{
+        "name": "Démocratique",
+        "type": "Founder",
+        "uniques": ["[+1 Happiness] for each global city following this religion","[+1 culture] for each global city following this religion"]
+    },
+{
+        "name": "écoute du peuple",
+        "type": "Follower",
+        "uniques": ["[+2 Happiness] <in cities with at least [5] [Followers of this Religion]>","[+2 food] <in cities with at least [5] [Followers of this Religion]>"]
+    },
+{
+        "name": "Peuple obéissant",
+        "type": "Follower",
+        "uniques": ["[-2 Happiness] <in cities with at least [5] [Followers of this Religion]>","[+3 production] <in  all cities> [Followers of this Religion]>","[+3 gold] <in  all cities> [Followers of this Religion]"]
+    },
+{
+        "name": "Grand Despote",
+        "type": "Founder",
+        "uniques": ["[+1 culture] for each global city following this religion","Resting point for Influence with City-States following this religion [+25]"]
+    }

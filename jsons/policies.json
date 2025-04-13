@@ -1,0 +1,76 @@
+        "name": "Démocratie",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "[+3 Culture] [in capital]",
+            "[+1 Hapiness] [in all cities]","Only available <before adopting [Order]>","[-30]% weight to this choice for AI decisions"
+        ],
+        "policies": [
+            {
+                "name": "Pratiques démocratique",
+                "uniques": [
+                    "[+1 science] per [8] population [in all cities]",
+                    "[+1 culture] per [8] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Suffrage",
+                "uniques": [
+                    "[+1 Hapiness] per [12] population [in all cities]","[-5]% unhapiness [in all cities]"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Croyances au système",
+                "uniques": [
+                    "[+50]% Strength for cities","[+50]% Strength for units when <in city tiles>",
+                    "[+10]% weight to this choice for AI decisions"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Pluralisme",
+                "uniques": [
+                    "[+5]% culture [in all cities]","[+5]% sciences [in all cities]"]
+                "requires": ["Pratiques démocratique"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Suffrage universel",
+                "uniques": [
+                    "[+2 Gold,per [12] pollution [in all cities]","[+1 Hapiness] per [12] population [in all cities]"]
+                "requires": ["Suffrage"],
+                "row": 2,
+                "column": 2
+            },
+  {
+                "name": "Aménagement",
+                "uniques": [
+                    "[+2 production,per [10] pollution [in all cities]","May buy [Lieu démocratique] buildings for [1250] [gold] [in all cities]"]
+                "requires": ["Suffrage universel"],
+                "requires": ["Pluralisme"],
+                "row": 3,
+                "column": 2
+            },
+{
+                "name": "Engagement citoyen",
+                "uniques": [
+                    "[+25]% Strength for cities","May buy [Citoyen] units for [25] [faith] [in all cities] when in war",
+           
+{
+                "name": "Démocratie Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]",
+                    "Provides a [Gouvernement] in your first capital for free"
+                ]
