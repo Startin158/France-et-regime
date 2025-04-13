@@ -1,6 +1,6 @@
-7[
-	{
-		 "name": "Soldat de l'armée Révolutionnaires française",
+[
+{
+ "name": "Soldat de l'armée Révolutionnaires française",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Première République Française",
 		"movement": 2,
