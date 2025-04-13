@@ -2,7 +2,7 @@
 	{
 		"name": "Camp Révolutionnaire",
 		"replaces": "Arsenal",
-		"uniqueTo": "Première République Francaise",
+		"uniqueTo": "Première République Française",
 		"cost": 145,
 		"happiness": 1,
 		"culture": 1,
@@ -15,7 +15,7 @@
 	{
 		"name": "école républicaine",
 		"replaces": "University",
-		"uniqueTo": "Première République Francaise",
+		"uniqueTo": "Première République Française",
 		"cost": 125,
 		"hurryCostModifier": 15,
 		"happiness": 1,
