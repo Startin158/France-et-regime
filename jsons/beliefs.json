@@ -1,3 +1,4 @@
+[
 {
         "name": "Démocratique",
         "type": "Founder",
@@ -18,3 +19,4 @@
         "type": "Founder",
         "uniques": ["[+1 culture] for each global city following this religion","Resting point for Influence with City-States following this religion [+25]"]
     }
+]
