@@ -8,7 +8,7 @@
 		"rangedStrength": 36,
 		"range": 2,
   "attackSound": "shot"
-  "uniques" : ["[+7]% Strength bonus for [Military] units within [2] tiles", "Unbuildable"]
+  "uniques" : "[+7]% Strength bonus for [Military] units within [2] tiles"
   
 
 "name": "Citoyen Français engagé",
@@ -25,7 +25,6 @@
 		"unitType": "Sword"
 		"movement": 3,
 		"strength": 10,
-  "uniques":"unbuildable"
 		"attackSound": "nonmetalhit"
 	}
 ]
