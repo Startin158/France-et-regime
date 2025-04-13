@@ -9,7 +9,6 @@
 		"range": 2,
   "attackSound": "shot",
   "cost": "2000",
-  "uniques": "Unbuildable",
   
 
 "name": "Citoyen Français engagé",
@@ -28,6 +27,5 @@
 		"strength": 10,
 		"attackSound": "nonmetalhit",
   "cost": "2000",
-  "uniques": "Unbuildable",
-	}
+}
 ]
