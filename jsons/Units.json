@@ -7,8 +7,8 @@
 		"strength": 35,
 		"rangedStrength": 36,
 		"range": 2,
-  "attackSound": "shot"
- "uniques": "Unbuildable"
+  "attackSound": "shot",
+  "uniques": "Unbuildable"
   
 
 "name": "Citoyen Français engagé",
@@ -22,10 +22,10 @@
 		"attackSound": "shot"
 
 "name": "Citoyen",
-		"unitType": "Sword"
+		"unitType": "Sword",
 		"movement": 3,
 		"strength": 10,
-		"attackSound": "nonmetalhit"
+		"attackSound": "nonmetalhit",
   "uniques": "Unbuildable" 
 	}
 ]
