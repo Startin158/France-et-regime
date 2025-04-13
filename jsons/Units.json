@@ -8,6 +8,7 @@
 		"rangedStrength": 36,
 		"range": 2,
   "attackSound": "shot"
+ "uniques": "Unbuildable"
   
 
 "name": "Citoyen Français engagé",
@@ -25,5 +26,6 @@
 		"movement": 3,
 		"strength": 10,
 		"attackSound": "nonmetalhit"
+  "uniques": "Unbuildable" 
 	}
 ]
