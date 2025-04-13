@@ -27,15 +27,6 @@
 		"uniques": ["[+2 Science] from [forest] tiles [in this city]","[+1 culture] from [Wine] tiles [in this city]"],
 		"requiredTech": "Education"
 },
-#{
-	"name": "Patrimoine",
-		"maintenance": 3,
-  "cost": 245
-  "culture": 2,
-  "hurryCostModifier": 15,
-  "uniques":"[+1 Culture] from [Academy] tiles [in this city]","[+1 culture] from [Manufactory] tiles [in this city]","[+1 Culture] from [Customs house] tiles [in this city]","[+1 Culture] from [Holy site] tiles [in this city]","[+1 Culture] from [Citadel] tiles [in this city]","[+1 Culture] from [Landmaek] tiles [in this city]"
-		"requiredTech": "Globalization"
-},
 {
  
 "name": "Lieu démocratique",
