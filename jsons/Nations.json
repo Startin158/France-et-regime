@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Première République Francaise",
+		"name": "Première République Française",
 		"leaderName": "",
 		"adjective": ["démocratique"],
 		"startBias": ["plain"],
-		"preferredVictoryType": "culturel",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Rendons sa liberté au peuple! faisons tomber la tyrannie! apportons la démocratie dans le monde!",
 		"startIntroPart2": "la France et ses idées révolutionnaires doivent se diffuser dans le monde, la démocratie doit être diffusé !",
