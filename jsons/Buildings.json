@@ -44,7 +44,7 @@
   "happiness": 5,
   "science": 3,
   "production": 2,
-  "uniques" :["Unbuildable","[Great Artist] is earned [100]% faster [in this city]","[Great Scientist] is earned [50]% faster [in this city]","[Great General] is earned [25]% faster [in this city]"]
+  "uniques" :["[Great Artist] is earned [100]% faster [in this city]","[Great Scientist] is earned [50]% faster [in this city]","[Great General] is earned [25]% faster [in this city]"]
 },
 {
 "name": "Patrimoine",
