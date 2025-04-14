@@ -28,6 +28,25 @@
 		"requiredTech": "Education"
 },
 {
+"name": "Patrimoine",
+		"maintenance":3,
+  "culture": 2,
+  	"cost": 185,
+	 "uniqueTo": "Première République Française",
+  "unique":"[+1 Culture] from [Great Imporovement] tiles [in this city]",
+  "requiredTech": "Radio"
+},
+{
+		"name": "Petite barricade",
+  "replaces": "Wall",
+  "uniqueTo": "Première République Française",
+		"cityStrength": 7,
+		"cityHealth": 55,
+		"hurryCostModifier":30,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
  
 "name": "Lieu démocratique",
 		"maintenance": 2,
@@ -47,14 +66,5 @@
   "production": 2,
   "cost": 0,
   "uniques" :["[50]% Great Person generation [in this city]","Unbuildable"],
-},
-{
-"name": "Patrimoine",
-		"maintenance":3,
-  "culture": 2,
-  	"cost": 185,
-	 "uniqueTo": "Première République Française",
-  "unique":"[+1 Culture] from [Great Imporovement] tiles [in this city]",
-  "requiredTech": "Radio"
 }
 ]
