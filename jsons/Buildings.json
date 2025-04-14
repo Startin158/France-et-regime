@@ -1,5 +1,6 @@
 [
 	{
+// Première République Française 
 		"name": "Camp Révolutionnaire",
 		"replaces": "Arsenal",
 		"uniqueTo": "Première République Française",
@@ -36,18 +37,20 @@
   "unique":"[+1 Culture] from [Great Imporovement] tiles [in this city]",
   "requiredTech": "Radio"
 },
+// Commune de Paris 
 {
 		"name": "Petite barricade",
   "replaces": "Wall",
-  "uniqueTo": "Première République Française",
+  "uniqueTo": "Commune de Paris"
 		"cityStrength": 7,
 		"cityHealth": 55,
 		"hurryCostModifier":30,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
-{
- 
+{ 
+// doctrine 
+//démocratie 
 "name": "Lieu démocratique",
 		"maintenance": 2,
   "cost": 250,
