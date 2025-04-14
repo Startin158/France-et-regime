@@ -69,7 +69,6 @@
                 "name": "Engagement citoyen",
                 "uniques": [
                     "[+25]% Strength for cities","May buy [Civil guerrier] units with [Gold] for [2] times their normal Production cost"]
-    },]
                 "requires": ["Croyances au système"],
                 "row": 3,
                 "column": 5
