@@ -17,8 +17,8 @@
             {
                 "name": "Pratiques démocratique",
                 "uniques": [
-                    "[+1 science] per [8] population [in all cities]",
-                    "[+1 culture] per [8] population [in all cities]"
+                    "[+1 Science] per [8] population [in all cities]",
+                    "[+1 Culture] per [8] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
@@ -59,7 +59,7 @@
   {
                 "name": "Aménagement",
                 "uniques": [
-                    "[+2 production,per [10] pollution [in all cities]","May buy [Lieu démocratique] buildings with [Gold] [in all cities]"]
+                    "[+2 Production] per [10] pollution [in all cities]","May buy [Lieu démocratique] buildings with [Gold] [in all cities]"]
                 "requires": ["Suffrage universel"],
                 "requires": ["Pluralisme"],
                 "row": 3,
