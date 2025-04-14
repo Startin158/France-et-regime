@@ -29,11 +29,22 @@
 		"name": "Petit mortier",
 		"unitType": "Bomber",
 		"movement": 0,
-		"strength": 15,
-		"rangedStrength": 7,
-		"range": 5,
+		"strength": 10,
+		"rangedStrength": 15,
+		"range": 1,
 		"cost": 0,
-		"uniques": ["Unbuildable","Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
+		"uniques": ["Unbuildable","Damage taken from interception reduced by [50]%", "Cannot be carried by [Carrier] units", "[+1] Sight", "Can see over obstacles"],
+		"attackSound": "bombing"
+	},
+{
+		"name": "Mortier",
+		"unitType": "Bomber",
+		"movement": 1,
+		"strength": 15,
+		"rangedStrength": 15,
+		"range": 2,
+		"cost": 0,
+		"uniques": ["Unbuildable","Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+2] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
 // doctrine 
