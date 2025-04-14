@@ -77,7 +77,7 @@
            
 {
                 "name": "Démocratie Complete",
-                "uniques": ["[+15]% growth [in all cities]","Provides a [Gouvernement] in your first city for free"]
+                "uniques": ["[+15]% growth [in all cities]","Gain a free [Gouvernement] [in capital]"]
             }
         ]
     }
