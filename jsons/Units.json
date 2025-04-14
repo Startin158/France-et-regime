@@ -21,7 +21,7 @@
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot",
 
-"name": "Un engagé",
+"name": "Engagé",
 		"unitType": "Sword",
 		"movement": 3,
 		"strength": 10,
