@@ -43,7 +43,7 @@
             {
                 "name": "Pluralisme",
                 "uniques": [
-                    "[5]% [Culture] [in all cities]","[+5]% [Sciences] [in all cities]"]
+                    "[+5]% [Culture] [in all cities]","[+5]% [Sciences] [in all cities]"]
                 "requires": ["Pratiques démocratique"],
                 "row": 2,
                 "column": 1
@@ -59,7 +59,7 @@
   {
                 "name": "Aménagement",
                 "uniques": [
-                    "[+2 Production] per [10] population [in all cities]","May buy [Lieu démocratique] buildings with [Gold] for [amount] times their normal Production cost"]
+                    "[+2 Production] per [10] population [in all cities]","May buy [Lieu démocratique] buildings with [Gold] for [2] times their normal Production cost"]
                 "requires": ["Suffrage universel"],
                 "requires": ["Pluralisme"],
                 "row": 3,
