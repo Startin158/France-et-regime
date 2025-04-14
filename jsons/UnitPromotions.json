@@ -2,7 +2,7 @@
 
 	{
 		"name": "Agressif",
-		"uniques": ["[This Unit] heals [0] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[This Unit] heals [1] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": [],
 		"innerColor": [195,53,43],
 		"outerColor": [253,236,234],
