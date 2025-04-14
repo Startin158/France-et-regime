@@ -1,5 +1,6 @@
 [
 {
+// première République française 
  "name": "Soldat de l'armée Révolutionnaires française",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Première République Française",
@@ -23,6 +24,11 @@
 	 "requiredTech": "Gunpowder",
 		"attackSound": "shot",
 },
+// Commune de Paris 
+
+
+// doctrine 
+// démocratie 
 {
  "name": "Civil guerrier",
  	"unitType": "Sword",
