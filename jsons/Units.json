@@ -28,6 +28,7 @@
  	"unitType": "Sword",
 		"movement": 3,
 		"strength": 10,
+  "cost": 25,
 		"attackSound": "nonmetalhit",
   "uniques" :["Unbuildable"],
 }
