@@ -48,6 +48,55 @@
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+{
+		"name": "Barricade",
+  "replaces": "Castle",
+  "uniqueTo": "Commune de Paris"
+		"cityStrength": 9,
+		"cityHealth": 30,
+		"hurryCostModifier": 30,
+		"requiredBuilding": "Petite barricade",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
+		"name": "Barricade conséquente",
+  "replaces": "Arsenal",
+  "uniqueTo": "Commune de Paris"
+		"cost": 300,
+		"cityStrength": 12,
+		"cityHealth": 35,
+		"hurryCostModifier": 32,
+		"requiredBuilding": "Barricade",
+		"requiredTech": "Metallurgy",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
+		"name": "Barricade gigantesque",
+  "replaces": "Military Base",
+  "uniqueTo": "Commune de Paris"
+		"cityStrength": 15,
+		"cityHealth": 32,
+		"hurryCostModifier": 35,
+		"requiredBuilding": "Barricade conséquente",
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
+		"name": "Barricade imprenable",
+  "replaces": "Bomb Shelter",
+  "uniqueTo": "Commune de Paris"
+		"cost": 300,
+  "cityStrength": 10,
+		"cityHealth": 20,
+		"hurryCostModifier": 20,
+		"requiredBuilding": "Barricade gigantesque",
+		"maintenance": 1,
+		"requiredTech": "Telecommunications",
+		"uniques": ["Population loss from nuclear attacks [-90]% [in this city]",
+			"Damage to garrison from nuclear attacks [-90]% [in this city]",
+			"Only available <when nuclear weapons are enabled> <hidden from users>"]
+	},
 { 
 // doctrine 
 //démocratie 
