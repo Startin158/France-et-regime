@@ -46,7 +46,7 @@
 		"cityHealth": 55,
 		"hurryCostModifier":30,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured","free [Petit mortier] appears <in this city>"]
+		"uniques": ["Destroyed when the city is captured","Free [Petit mortier] appears <in this city>"]
 	},
 {
 		"name": "Barricade",
