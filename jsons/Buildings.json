@@ -40,7 +40,7 @@
 // Commune de Paris 
 {
 		"name": "Petite barricade",
-  "replaces": "Wall",
+  "replaces": "Walls",
   "uniqueTo": "Commune de Paris"
 		"cityStrength": 7,
 		"cityHealth": 55,
