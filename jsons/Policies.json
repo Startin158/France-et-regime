@@ -51,7 +51,7 @@
             {
                 "name": "Suffrage universel",
                 "uniques": [
-                    "[+2 Gold,per [12] pollution [in all cities]","[+1 Hapiness] per [12] population [in all cities]"]
+                    "[+2 Gold] per [12] pollution [in all cities]","[+1 Hapiness] per [12] population [in all cities]"]
                 "requires": ["Suffrage"],
                 "row": 2,
                 "column": 2
