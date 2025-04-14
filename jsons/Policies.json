@@ -26,7 +26,7 @@
             {
                 "name": "Suffrage",
                 "uniques": [
-                    "[+1 Happiness] per [12] population [in all cities]","[-5]% unhappiness [in all cities]"
+                    "[+1 Happiness] per [12] population [in all cities]","[-5]% Unhappiness [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -43,7 +43,7 @@
             {
                 "name": "Pluralisme",
                 "uniques": [
-                    "[+5]% culture [in all cities]","[+5]% sciences [in all cities]"]
+                    "[+5]% Culture [in all cities]","[+5]% Sciences [in all cities]"]
                 "requires": ["Pratiques démocratique"],
                 "row": 2,
                 "column": 1
@@ -68,7 +68,7 @@
 {
                 "name": "Engagement citoyen",
                 "uniques": [
-                    "[+25]% Strength for cities","May buy [Civil guerrier] units for [25] [faith] [in all cities] when in war"]
+                    "[+25]% Strength for cities","May buy [Civil guerrier] units for [25] [faith] [in all cities] "]
                 "requires": ["Croyances au système"],
                 "row": 3,
                 "column": 5
