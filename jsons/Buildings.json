@@ -31,7 +31,7 @@
  
 "name": "Lieu démocratique",
 		"maintenance": 2,
-  "cost": 0,
+  "cost": 250,
   "culture": 3,
   "happiness": 1,
   "science": 2,
