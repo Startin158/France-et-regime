@@ -3,11 +3,11 @@
         "name": "Démocratie",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
+            "Neutral": 2,
+            "Cultural": 4,
             "Diplomatic": 5,
-            "Domination": 5,
-            "Scientific": 5
+            "Domination": 1,
+            "Scientific": 4
         },
         "uniques": [
             "[+3 Culture] [in capital]",
@@ -69,6 +69,10 @@
                 "name": "Engagement citoyen",
                 "uniques": [
                     "[+25]% Strength for cities","May buy [Citoyen] units for [25] [faith] [in all cities] when in war"]
+                "requires": ["Croyances au système"],
+                "row": 3,
+                "column": 3
+
     },
            
 {
