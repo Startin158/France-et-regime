@@ -27,6 +27,7 @@
 // Commune de Paris 
 {
 		"name": "Petit mortiers",
+  "uniqueTo": "Commune de Paris"
 		"unitType": "Bomber",
 		"movement": 0,
 		"strength": 15,
