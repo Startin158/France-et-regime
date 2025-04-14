@@ -1,8 +1,8 @@
 [
 	{
 		"name": "Première République Française",
-		"leaderName": "",
-		"adjective": ["démocratique"],
+		"leaderName": "Parlement",
+		"adjective": ["Première démocratie moderne"],
 		"startBias": ["plain"],
 		"preferredVictoryType": "Cultural",
 		
@@ -25,12 +25,12 @@
 		"hateYes": ["Bon, nous acceptons.","Les votes sont mitigé,mais la majorité a accepté."," La tyrannie et la démocratie qui conclut un accord, quelle tragédie..."],
 		
 		"afterPeace": "Nous pension que vous partagiez nos idéaux de liberté, d'égalité et de fraternité. Nous voyons maintenant que vous n'êtes pas nos frères.",
-		"tradeRequest": "Nous espérons que vous acceptiez cette demande, pour le bien de nos deux peuples..",
+		"tradeRequest": "Nous espérons que vous acceptiez cette demande, pour le bien de nos deux peuples...",
 
 		"outerColor": [16,16,16],
-		"innerColor": [125,125,255],
+		"innerColor": [0,0,125],
 		"uniquenames": "La première démocratie moderne",
-  "uniques": ["[+1 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]"]
+  "uniques": ["[+1 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]","Adopt [Démocratie]"]
 		"cities": ["Paris","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
 "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	},
@@ -38,36 +38,36 @@
 
 {
 		"name": "Commune de Paris",
-		"leaderName": "",
-		"adjective": ["démocratique"],
+		"leaderName": "Peuple de Paris",
+		"adjective": ["Première ditacture du prolétariat"],
 		"startBias": ["plain"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Rendons sa liberté au peuple! faisons tomber la tyrannie! apportons la démocratie dans le monde!",
-		"startIntroPart2": "la France et ses idées révolutionnaires doivent se diffuser dans le monde, la démocratie doit être diffusé !",
+		"startIntroPart1": "Seul le peuple doit décider !",
+		"startIntroPart2": "Le peuple doit posséder tous les pouvoirs sans aucunes opposition. Le peuple est le seul dictateur légitime !",
 		
-		"declaringWar": "Vous n'êtes qu'un obstacle à la Révolution et a la démocratie, nous devons vous éliminer pour le bien de tous.",
-		"attacked": "Le peuple est avec nous! vous tyrans, tomberez face à la puissance des idées démocratiques !",
-		"defeated": "Vous nous avez peut être vaincus... Mais jamais vous ne pourrez faire taire les idées Révolutionnaires !",
-		"introduction": "Nous souhaitons créer une belle amitié avec vous, et vous partager nos idées si affinités.",
+		"declaringWar": "Vous devez périr pour le bien du Peuple !",
+		"attacked": "Essayer de faire tomber le Peuple est idiot, vous allez regretter de vous attaquer au Peuple.",
+		"defeated": "Comment ? Comment ! comment oser vous EXTERMINER LE PEUPLE !!!",
+		"introduction": "Notre utopie populaire aimerait partager des relations amicales avec votre état.",
 		
 		"neutralHello": "Bonjour, comment allez vous ?",
-		"neutralLetsHearIt": ["Je vous prie de parler.","Que voulez vous ?","Nous sommes prêt à vous écouter."],
-		"neutralNo": ["Désole, nous refusons.","Nous avons voté, nous refusons","Les urnes ont parlé, votre requête est rejeté."],
-		"neutralYes": ["Le peuple accepte.","La majorité est d'accord.","Faisons cela,les votes sont pour."],
+		"neutralLetsHearIt": ["Le Peuple est à l'écoute.","Que voulez vous ?","Nous sommes prêt à vous entendre."],
+		"neutralNo": ["Désole, nous refusons.","Nous avons voté, nous refusons","Le Peuple a parlé, votre requête est rejeté."],
+		"neutralYes": ["Le Peuple accepte.","Le Peuple est d'accord.","Faisons cela, le Peuple vous suis."],
 
-		"hateHello": "Le peuple vous hais.",
-		"hateLetsHearIt": ["Parlez.","Dépêché vous à parler.","Allez-y, dites."],
-		"hateNo": ["Évidement,le peuple est contre."," Les urnes sont claires, personne ne veut coopèrer avec des tyrans.","La démocratie refuse tout accord avec votre dictature"],
-		"hateYes": ["Bon, nous acceptons.","Les votes sont mitigé,mais la majorité a accepté."," La tyrannie et la démocratie qui conclut un accord, quelle tragédie..."],
+		"hateHello": "Nous souhaitons vous voir périr.",
+		"hateLetsHearIt": ["Plus vite.","Palez immédiatement.","Si ce qu'on entend nous déplaît, nous vous le ferons regretter"],
+		"hateNo": ["Évidement,le Peuple est contre."," Vous pensiez que le Peuple allait prendre votre parti ?! Ha Ha Ha !.","Ha Ha Ha ! Attendez vous étiez sérieux ? Évidemment que le peuple est contre !"],
+		"hateYes": ["le Peuple accepte pour cette fois.","Le Peuple a accepté ? Pitoyable !!!","Nous... acceptons..."],
 		
-		"afterPeace": "Nous pension que vous partagiez nos idéaux de liberté, d'égalité et de fraternité. Nous voyons maintenant que vous n'êtes pas nos frères.",
-		"tradeRequest": "Nous espérons que vous acceptiez cette demande, pour le bien de nos deux peuples..",
+		"afterPeace": "Nous pension que vous nous compreniez, que vous compreniez notre combat ! Votre trahison sera une grande leçon pour le Peuple.",
+		"tradeRequest": "Nous espérons que vous acceptiez cette demande, pour le bien des peuples...",
 
 		"outerColor": [16,16,16],
-		"innerColor": [125,125,255],
-		"uniquenames": "La première démocratie moderne",
-  "uniques": ["[+1 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]"]
+		"innerColor": [200,0,125],
+		"uniquenames": "La première dictature du prolétariat"
+  "uniques": ["[+1 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]","Adopt [Démocratie]"]
 		"cities": ["Paris","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
 "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	}
