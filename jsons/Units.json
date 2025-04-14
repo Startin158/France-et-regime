@@ -34,7 +34,6 @@
 		"range": 5,
 		"cost": 0,
 		"requiredTech": "Stealth",
-		"requiredResource": "Aluminum",
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
