@@ -10,6 +10,8 @@
   "attackSound": "shot",
   "cost": "2000",
   "uniques" :["Unbuildable"],
+},
+{
 
  "name": "Citoyen Français engagé",
 	 "unitType": "Gunpowder",
@@ -20,7 +22,8 @@
 	 "cost": 50,
 	 "requiredTech": "Gunpowder",
 		"attackSound": "shot",
-
+},
+{
  "name": "Civil guerrier",
  	"unitType": "Sword",
 		"movement": 3,
