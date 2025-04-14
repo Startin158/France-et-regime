@@ -47,6 +47,17 @@
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+2] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
+{
+		"name": "Mortier",
+		"unitType": "Bomber",
+		"movement": 1,
+		"strength": 80,
+		"rangedStrength": 80,
+		"range": 2,
+		"cost": 0,
+		"uniques": ["Unbuildable","Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+2] Sight", "Can see over obstacles"],
+		"attackSound": "bombing"
+	},
 // doctrine 
 // démocratie 
 {
