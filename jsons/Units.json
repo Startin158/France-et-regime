@@ -48,6 +48,7 @@
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [60]%", "Cannot be carried by [Carrier] units", "[+2] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
   "upgradesTo": "Stealth Bomber"
+  "requiredTech": "Masonry",
 	},
 {
 		"name": "Mortier efficace",
