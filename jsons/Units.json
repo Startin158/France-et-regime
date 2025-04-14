@@ -35,7 +35,7 @@
 		"cost": 0,
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [50]%", "Cannot be carried by [Carrier] units", "[+1] Sight", "Can see over obstacles"],
 		"attackSound": "bombing",
-  "upgradesTo": "Stealth Bomber",
+  "upgradesTo": ""Mortier",
   "requiredTech": "Masonry"
 	},
 {
@@ -48,7 +48,7 @@
 		"cost": 0,
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [60]%", "Cannot be carried by [Carrier] units", "[+2] Sight", "Can see over obstacles"],
 		"attackSound": "bombing",
-  "upgradesTo": "Stealth Bomber",
+  "upgradesTo": "Mortier efficace",
   "requiredTech": "Chivalry"
 	},
 {
@@ -61,7 +61,7 @@
 		"cost": 0,
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [70]%", "Cannot be carried by [Carrier] units", "[+3] Sight", "Can see over obstacles"],
 		"attackSound": "bombing",
-  "upgradesTo": "Stealth Bomber",
+  "upgradesTo": "Mortier puissant",
   "requiredTech": "Metallurgy"
 	},
 {
@@ -74,7 +74,7 @@
 		"cost": 0,
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [80]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing",
-  "upgradesTo": "Stealth Bomber",
+  "upgradesTo": "Mortier mortel!",
   "requiredTech": "Replaceable Parts"
 	},
 {
@@ -87,6 +87,7 @@
 		"cost": 0,
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [90]%", "Cannot be carried by [Carrier] units", "[+5] Sight", "Can see over obstacles"],
 		"attackSound": "bombing",
+  "requiredTech": "Telecommunications",
   
 	},
 // doctrine 
