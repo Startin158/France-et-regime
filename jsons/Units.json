@@ -9,7 +9,7 @@
 		"range": 2,
   "attackSound": "shot",
   "cost": "2000",
-  
+  "uniques" :["Unbuildable"],
 
 "name": "Citoyen Français engagé",
 		"unitType": "Gunpowder",
@@ -26,6 +26,6 @@
 		"movement": 3,
 		"strength": 10,
 		"attackSound": "nonmetalhit",
-  "cost": "2000",
+  "uniques" :["Unbuildable"],
 }
 ]
