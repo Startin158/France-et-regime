@@ -29,7 +29,7 @@
                     "[+1 Happiness] per [12] population [in all cities]","[-5]% unhappiness [in all cities]"
                 ],
                 "row": 1,
-                "column": 2
+                "column": 3
             },
             {
                 "name": "Croyances au système",
@@ -38,7 +38,7 @@
                     "[+10]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 5
             },
             {
                 "name": "Pluralisme",
@@ -54,7 +54,7 @@
                     "[+2 Gold] per [12] pollution [in all cities]","[+1 Happiness] per [12] population [in all cities]"]
                 "requires": ["Suffrage"],
                 "row": 2,
-                "column": 2
+                "column": 3
             },
   {
                 "name": "Aménagement",
@@ -71,7 +71,7 @@
                     "[+25]% Strength for cities","May buy [Citoyen] units for [25] [faith] [in all cities] when in war"]
                 "requires": ["Croyances au système"],
                 "row": 3,
-                "column": 3
+                "column": 5
 
     },
            
