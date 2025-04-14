@@ -68,7 +68,7 @@
 		"outerColor": [4,4,4],
 		"innerColor": [180,0,225],
 		"uniquenames": "La première dictature du prolétariat"
-  "uniques": ["[+1 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]","Adopt [Démocratie]"]
+  "uniques": ["[Great General] is earned [50]% faster","[+3 Happiness] [in all cities] <when at war>","[+4 Production] [in all cities] <when at war>","Adopt [Démocratie]"]
 		"cities": ["1ème Arrondissements","2ème Arrondissements","3ème Arrondissement","4ème Arrondissement","5ème Arrondissement","6ème Arrondissement","7ème Arrondissement","8ème Arrondissement","9ème Arrondissement","10ème Arrondissement","11ème Arrondissement","12ème Arrondissement","13ème Arrondissement","14ème Arrondissement","15ème Arrondissement","16ème Arrondissement","17ème Arrondissement","18ème Arrondissement","19ème Arrondissement","20ème Arrondissement"]
 "spyNames": ["Jean", "Marie", "Jeanne", "Louis", "Marguerite", "Pierre", "Joseph", "Germaine", "Yvette", "Henri"]
 	}
