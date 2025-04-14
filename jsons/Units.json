@@ -36,7 +36,7 @@
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [50]%", "Cannot be carried by [Carrier] units", "[+1] Sight", "Can see over obstacles"],
 		"attackSound": "bombing",
   "upgradesTo": "Stealth Bomber",
-  "requiredTech": "Masonry",
+  "requiredTech": "Masonry"
 	},
 {
 		"name": "Mortier",
@@ -47,9 +47,9 @@
 		"range": 2,
 		"cost": 0,
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [60]%", "Cannot be carried by [Carrier] units", "[+2] Sight", "Can see over obstacles"],
-		"attackSound": "bombing"
-  "upgradesTo": "Stealth Bomber"
-  "requiredTech": "Chivalry",
+		"attackSound": "bombing",
+  "upgradesTo": "Stealth Bomber",
+  "requiredTech": "Chivalry"
 	},
 {
 		"name": "Mortier efficace",
@@ -60,9 +60,9 @@
 		"range": 4,
 		"cost": 0,
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [70]%", "Cannot be carried by [Carrier] units", "[+3] Sight", "Can see over obstacles"],
-		"attackSound": "bombing"
-  "upgradesTo": "Stealth Bomber"
-  "requiredTech": "Metallurgy",
+		"attackSound": "bombing",
+  "upgradesTo": "Stealth Bomber",
+  "requiredTech": "Metallurgy"
 	},
 {
 		"name": "Mortier puissant",
@@ -73,8 +73,9 @@
 		"range": 8,
 		"cost": 0,
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [80]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
-		"attackSound": "bombing"
-  "upgradesTo": "Stealth Bomber"
+		"attackSound": "bombing",
+  "upgradesTo": "Stealth Bomber",
+  "requiredTech": "Replaceable Parts"
 	},
 {
 		"name": "Mortier mortel!",
@@ -85,8 +86,8 @@
 		"range": 16,
 		"cost": 0,
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [90]%", "Cannot be carried by [Carrier] units", "[+5] Sight", "Can see over obstacles"],
-		"attackSound": "bombing"
-  "upgradesTo": "Stealth Bomber"
+		"attackSound": "bombing",
+  
 	},
 // doctrine 
 // démocratie 
