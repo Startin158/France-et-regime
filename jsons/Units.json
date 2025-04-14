@@ -26,11 +26,11 @@
 },
 // Commune de Paris 
 {
-		"name": "Stealth Bomber",
+		"name": "Petit mortiers",
 		"unitType": "Bomber",
-		"movement": 2,
+		"movement": 0,
 		"strength": 15,
-		"rangedStrength": 15,
+		"rangedStrength": 7,
 		"range": 5,
 		"cost": 0,
 		"requiredTech": "Stealth",
