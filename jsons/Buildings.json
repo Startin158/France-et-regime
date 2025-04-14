@@ -57,7 +57,7 @@
 		"hurryCostModifier": 30,
 		"requiredBuilding": "Petite barricade",
 		"requiredTech": "Chivalry",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured","Free [Mortier] appears <in this city>"]
 	},
 {
 		"name": "Barricade conséquente",
@@ -69,7 +69,7 @@
 		"hurryCostModifier": 32,
 		"requiredBuilding": "Barricade",
 		"requiredTech": "Metallurgy",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured","Free [Mortier efficace] appears <in this city>"]
 	},
 {
 		"name": "Barricade gigantesque",
@@ -80,7 +80,7 @@
 		"hurryCostModifier": 35,
 		"requiredBuilding": "Barricade conséquente",
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured","Free [Mortier puissant] appears <in this city>"]
 	},
 {
 		"name": "Barricade imprenable",
@@ -95,7 +95,7 @@
 		"requiredTech": "Telecommunications",
 		"uniques": ["Population loss from nuclear attacks [-90]% [in this city]",
 			"Damage to garrison from nuclear attacks [-90]% [in this city]",
-			"Only available <when nuclear weapons are enabled> <hidden from users>"]
+			"Only available <when nuclear weapons are enabled> <hidden from users>","Free [Mortier mortel!] appears <in this city>"]
 	},
 { 
 // doctrine 
