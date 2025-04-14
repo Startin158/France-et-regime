@@ -35,7 +35,7 @@
 		"cost": 0,
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [50]%", "Cannot be carried by [Carrier] units", "[+1] Sight", "Can see over obstacles"],
 		"attackSound": "bombing",
-  "upgradesTo": ""Mortier",
+  "upgradesTo": "Mortier",
   "requiredTech": "Masonry"
 	},
 {
