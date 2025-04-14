@@ -43,7 +43,7 @@
             {
                 "name": "Pluralisme",
                 "uniques": [
-                    "[+5]% [Culture] [in all cities]","[+5]% [Sciences] [in all cities]"]
+                    "[+5]% [Culture] [in all cities]","[+5]% [Science] [in all cities]"]
                 "requires": ["Pratiques démocratique"],
                 "row": 2,
                 "column": 1
