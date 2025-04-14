@@ -59,7 +59,7 @@
   {
                 "name": "Aménagement",
                 "uniques": [
-                    "[+2 Production] per [10] pollution [in all cities]","May buy [Lieu démocratique] buildings with [Gold] for [amount] times their normal Production cost"]
+                    "[+2 Production] per [10] population [in all cities]","May buy [Lieu démocratique] buildings with [Gold] for [amount] times their normal Production cost"]
                 "requires": ["Suffrage universel"],
                 "requires": ["Pluralisme"],
                 "row": 3,
