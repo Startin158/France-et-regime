@@ -62,6 +62,7 @@
 		"uniques": ["Unbuildable","Damage taken from interception reduced by [70]%", "Cannot be carried by [Carrier] units", "[+3] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
   "upgradesTo": "Stealth Bomber"
+  "requiredTech": "Metallurgy",
 	},
 {
 		"name": "Mortier puissant",
