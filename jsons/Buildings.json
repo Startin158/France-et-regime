@@ -52,6 +52,6 @@
 		"maintenance":3,
   "culture": 2,
 	 "uniqueTo": "Première République Française",
-  "uniques":"[+1 Culture] from every [Great Imporovement] tiles [in this city]",
+  "uniques":"[+1 Culture] from [Great Imporovement] tiles [in this city]",
 }
 ]
