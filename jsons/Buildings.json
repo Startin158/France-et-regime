@@ -106,7 +106,7 @@
   "gold": 2,
 		"greatPersonPoints": {"Great Artist": 2},
 		"isWonder": true,
-		"uniques": ["[+2 Food] from all [Cuisine de Versailles] buildings <in this city>","[+2 Happiness] from all [Apparemments Royaux] buildings <in this city","Gifts of Gold to City-States generate [10]% more Influence <if [Grands appartements] is constructed>,"[+2 Culture] from all [Galerie des glaces] buildings <in this city","[+2 Faith] from all [Chapelle royale] buildings <in this city","[+2 Sciences] from all [Bibliothèque de Versailles] buildings <in this city"],
+		"uniques": ["[+2 Food] from all [Cuisine de Versailles] buildings <in this city>","[+2 Happiness] from all [Apparemments Royaux] buildings <in this city","Gifts of Gold to City-States generate [10]% more Influence <if [Grands appartements] is constructed>,"[+2 Culture] from all [Galerie des glaces] buildings <in this city","[+2 Faith] from all [Chapelle royale] buildings <in this city","[+2 Sciences] from all [Bibliothèque de Versailles] buildings <in this city","[+2 Gold] from all [Logement des courtisans] buildings <in this city","[+2 Sciences] from all [Bibliothèque de Versailles] buildings <in this city"],
 		"requiredTech": "Guilds",
 		"quote": "Le château de Versaille, lieu qui servait au roi Louis XIV pour les visites diplomatique d'état, qui permettait de montrer la grandeur et la puissance de la France."
 	},
@@ -139,6 +139,16 @@
 		"name": "Bibliothèque de Versailles",
 		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% Science] [in this city]"],
 		"quote": "Un château a toujours besoin des bibliothèques pour son prestige, et le château de Versailles a une bibliothèque très prestigieuse."
+	},
+{
+		"name": "Salle de garde de Versailles",
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Food] [in this city]"],
+		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
+	},
+{
+		"name": "Logement des courtisans",
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Gold] [in this city]"],
+		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
 	},
 { 
 // doctrine 
