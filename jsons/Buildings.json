@@ -97,6 +97,7 @@
 			"Damage to garrison from nuclear attacks [-90]% [in this city]",
 			"Only available <when nuclear weapons are enabled> <hidden from users>","Free [Mortier mortel!] appears <in this city>"]
 	},
+// le Royaume de Versailles 
 {
 		"name": "Château de Versailles",
 		"culture": 2,
