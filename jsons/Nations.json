@@ -76,7 +76,7 @@
 {
 		"name": "Royaume de France",
 		"leaderName": "Louis XIV",
-		"adjective": [Monarchie absolue"],
+		"adjective": ["Monarchie absolue"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
