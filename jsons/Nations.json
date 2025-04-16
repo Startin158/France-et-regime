@@ -102,8 +102,8 @@
 		"tradeRequest": "J'imagine que cette offre est alléchante pour nos deux partis.",
 
 		
-        "outerColor": [ 38, 98, 255],
-        "innerColor": [239,236,148],
+        "outerColor": [ 255, 255, 255],
+        "innerColor": [200,200,255],
 		"uniquenames": "Le royaume du roi soleil.",
   "uniques": ["[+2 Culture] from every [National Wonder]","[+4 Culture] from every [World Wonder]","[50]% Production when constructing [National Wonder] buildings [in all cities]","[50]% Production when constructing [World Wondr] buildings [in capital]","Adopt [Démocratie]","[+1000 Production] from every [Castle]"],
 		"cities": ["Paris","Versailles","Lyon", "Marseille","Bordeaux","Toulouse","Nantes","Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy"]
