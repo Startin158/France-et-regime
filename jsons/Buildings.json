@@ -112,32 +112,32 @@
 	},
 {
 		"name": "Cuisine de Versailles",
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Food] [in this city]"],
 		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
 	},
 {
 		"name": "Apparemments Royaux",
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[5]% [Happiness] [in this city]"],
 		"quote": "Le château de Versaille sans appartement pour le roi la reine et les enfants du roi n'est pas Versailles  ."
 	},
 {
 		"name": "Grands appartements",
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>",""],
 		"quote": "Le château de Versaille a été construit pour pouvoir accueillir du monde, ainsi Versailles à besoin de nombreux appartement pour ses invités diplomatique."
 	},
 {
 		"name": "Galerie des glaces",
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Culture] [in this city]"],
 		"quote": "Pour faire rayonner la culture et l'art français, et car le roi et un amateur d'art, la château de Versailles à besoin de cette grande galerie."
 	},
 {
 		"name": "Chapelle royale",
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[20]% [Faith] [in this city]"],
 		"quote": "La famille royale et les invités sont très pieux, ainsi il est nécessaire pour Versailles d'avoir une chapelle royale."
 	},
 {
 		"name": "Bibliothèque de Versailles",
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% Science] [in this city]"],
 		"quote": "Un château a toujours besoin des bibliothèques pour son prestige, et le château de Versailles a une bibliothèque très prestigieuse."
 	},
 { 
