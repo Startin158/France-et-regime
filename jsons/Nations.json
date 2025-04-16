@@ -3,7 +3,7 @@
 		"name": "Première République Française",
 		"leaderName": "Parlement",
 		"adjective": ["Première démocratie moderne"],
-		"startBias": ["plain"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Rendons sa liberté au peuple! faisons tomber la tyrannie! apportons la démocratie dans le monde!",
@@ -36,12 +36,12 @@
 "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	},
 
-//shhs
+//Commune de Paris. Considéré comme la première dictature du prolétariat, elle a été de très courtes durées mais a inspiré certains.
 {
 		"name": "Commune de Paris",
 		"leaderName": "Peuple de Paris",
 		"adjective": ["Première ditacture du prolétariat"],
-		"startBias": ["plain"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Seul le peuple doit décider !",
@@ -71,5 +71,42 @@
   "uniques": ["[Great General] is earned [50]% faster","[+3 Happiness] [in all cities] <when at war>","[+4 Production] [in all cities] <when at war>","Adopt [Démocratie]"]
 		"cities": ["1ème Arrondissements","2ème Arrondissements","3ème Arrondissement","4ème Arrondissement","5ème Arrondissement","6ème Arrondissement","7ème Arrondissement","8ème Arrondissement","9ème Arrondissement","10ème Arrondissement","11ème Arrondissement","12ème Arrondissement","13ème Arrondissement","14ème Arrondissement","15ème Arrondissement","16ème Arrondissement","17ème Arrondissement","18ème Arrondissement","19ème Arrondissement","20ème Arrondissement"]
 "spyNames": ["Jean", "Marie", "Jeanne", "Louis", "Marguerite", "Pierre", "Joseph", "Germaine", "Yvette", "Henri"]
+	},
+// Le royaume de France de Louis XIV, un des régimes les plus totalitariste du monde 
+{
+		"name": "Royaume de France",
+		"leaderName": "Louis XIV",
+		"adjective": [Monarchie absolue"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "La France se soit de dominer l'Europe.",
+		"startIntroPart2": "Moi Louix XIV, je vais faire de la France un pays qu'aucuns autres n'oseraient avoir comme ennemi.",
+		
+		"declaringWar": "Cette déclaration de guerres ne s'explique pas par une haine à votre encontre. Il est juste nécessaire pour la France de guerroyer contre votre état",
+		"attacked": "Votre attaque est compréhensible, cela ne m'étonne pas de votre état et de vos dirigeants. Je aurais dû le voir venir, ce que j'ai fait.",
+		"defeated": "Je pensais pas être vaincus de cette manière... Étiez-vous mieux préparer, plus nombreux,plus avancé ou tout simplement plus puissant ?",
+		"introduction": "Bonjour, j'espère que nos deux états, nos deux peuples,nous même entretiendrons de bonnes relations",
+		
+		"neutralHello": "Bonjour, j'espère que rien ne vous préoccupe",
+		"neutralLetsHearIt": ["Je vous écoutes, parlez sans vergogne.","Que désirez vous ?","Je suis prêt à vous entendre."],
+		"neutralNo": ["Je m'en vois navré, mais je dois refuser.","Cette proposition n'est point avantageuse pour la France","Je ne pas pas accepter cette proposition, mes excuses."],
+		"neutralYes": ["Cette proposition est avantageuse pour les deux partis.","Votre intelligence ce reflète sur vos propositions, vous avez bien cerné les besoins de chacun."],
+
+		"hateHello": "Vous êtes dangereux pour la France.",
+		"hateLetsHearIt": ["Parlez, j'y porterai peut être un intérêt.","Je vous pris de vous exprimer rapidement, tous ne sont pas comme vous, à avoir trop de temps libre ","Allez vous mes conseiller, je les écouterai peut être."],
+		"hateNo": ["Je refuse, cela n'est en aucun cas favorable à la France ","Votre proposition fait preuve d'aucun bon sens.","La France n'as aucun avantage à vous écouter"],
+		"hateYes": ["J'accepte,votre proposition.","Votre offre m'intéresse .",""],
+		
+		"afterPeace": "Je ne pensais pas que vous alliez oser cela. La France ne va pas se laisser faire, nous combattront et vous ferons regretter votre impertinence .",
+		"tradeRequest": J'imagine que cette offre est alléchante pour nos deux partis.",
+
+		
+        "outerColor": [ 38, 98, 255],
+        "innerColor": [239,236,148],
+		"uniquenames": "La royaume du roi soleil.",
+  "uniques": ["Adopt [Démocratie]"],
+		"cities": ["Paris","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
+"spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	}
 ]
