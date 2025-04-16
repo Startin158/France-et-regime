@@ -100,7 +100,7 @@
 // le Royaume de France 
 {
 		"name": "Château de Versailles",
-  "uniqueTo": "le Royaume de France 
+  "uniqueTo": "Royaume de France", 
 		"culture": 2,
 		"happiness": 4,
   "gold": 2,
