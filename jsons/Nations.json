@@ -106,7 +106,7 @@
         "innerColor": [239,236,148],
 		"uniquenames": "La royaume du roi soleil.",
   "uniques": ["[+2 Cuture] from every [National Wonder]","[+4 Cuture] from every [World Wonder]","May buy items in puppet cities","Adopt [Démocratie]"],
-		"cities": ["Paris","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
+		"cities": ["Paris","Versailles","Lyon", "Marseille","Bordeaux","Toulouse,"Nantes,"Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy"]
 "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	}
 ]
