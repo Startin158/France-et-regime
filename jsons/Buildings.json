@@ -97,6 +97,17 @@
 			"Damage to garrison from nuclear attacks [-90]% [in this city]",
 			"Only available <when nuclear weapons are enabled> <hidden from users>","Free [Mortier mortel!] appears <in this city>"]
 	},
+{
+		"name": "Château de Versailles",
+		"culture": 2,
+		"happiness": 4,
+  "gold": 2,
+		"greatPersonPoints": {"Great Artist": 2},
+		"isWonder": true,
+		"uniques": ["[+50]% Golden Age length"],
+		"requiredTech": "Guilds",
+		"quote": "Le château de Versaille, lieu qui servait au roi Louis XIV pour les visites diplomatique d'état, qui permettait de montrer la grandeur et la puissance de la France."
+	},
 { 
 // doctrine 
 //démocratie 
