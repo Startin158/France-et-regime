@@ -99,13 +99,13 @@
 		"hateYes": ["J'accepte,votre proposition.","Votre offre m'intéresse .",""],
 		
 		"afterPeace": "Je ne pensais pas que vous alliez oser cela. La France ne va pas se laisser faire, nous combattront et vous ferons regretter votre impertinence .",
-		"tradeRequest": J'imagine que cette offre est alléchante pour nos deux partis.",
+		"tradeRequest": "J'imagine que cette offre est alléchante pour nos deux partis.",
 
 		
         "outerColor": [ 38, 98, 255],
         "innerColor": [239,236,148],
 		"uniquenames": "La royaume du roi soleil.",
-  "uniques": ["Adopt [Démocratie]"],
+  "uniques": ["[+2 Cuture] from every [National Wonder]","[+4 Cuture] from every [World Wonder]","May buy items in puppet cities","Adopt [Démocratie]"],
 		"cities": ["Paris","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
 "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	}
