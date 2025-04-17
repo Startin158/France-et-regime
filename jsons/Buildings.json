@@ -22,10 +22,10 @@
 		"happiness": 1,
   "culture": 1,
   "science" : 1,
-  "maintenance": 3,
+  "maintenance": 2,
   "percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
-		"uniques": ["[+2 Science] from [Forest] tiles [in this city]","[+1 Culture] from [Jungle] tiles [in this city]"],
+		"uniques": ["[+2 Science] from [Forest] tiles [in this city]","[+1 Culture] from [Forest] tiles [in this city]","[+2 Culture] from [Jungle] tiles [in this city]","[+1 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
 },
 {
@@ -34,7 +34,7 @@
   "culture": 2,
   	"cost": 185,
 	 "uniqueTo": "Première République Française",
-  "unique":"[+1 Culture] from [Great Imporovement] tiles [in this city]",
+  "unique":"[+2 Culture] from [Great Imporovement] tiles [in this city]",
   "requiredTech": "Radio"
 },
 // Commune de Paris 
@@ -106,7 +106,7 @@
   "uniqueTo": "Royaume de France", 
 		"culture": 2,
 		"happiness": 4,
-  "gold": 2,
+  "gold": 1,
 		"isWonder": true,
 		"uniques": ["[+2 Food] if [Cuisine de Versailles] is constructed <in this city>","[+2 Happiness] if [Apparemments Royaux] is constructed <in this city>","Gifts of Gold to City-States generate [10]% more Influence <if [Grands appartements] is constructed>","[+2 Culture] if [Galerie des glaces] is constructed <in this city>","[+2 Faith] if [Chapelle royale] is constructed <in this city>","[+2 Science] if [Bibliothèque de Versailles] is constructed <in this city>","[+2 Gold] if [Logement des courtisans] is constructed <in this city>","All newly-trained [All] units [in this city] receive the [Blitz] promotion <if [Salle de garde de Versailles] is constructed>"],
 		"requiredTech": "Guilds",
@@ -117,6 +117,7 @@
   "uniqueTo": "Royaume de France",
   "requiredTech": "Guilds",
   "cost": 120,
+  "maintenance": 1,
 		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Food] [in this city]"],
 		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
 	},
@@ -125,6 +126,7 @@
   "uniqueTo": "Royaume de France",
   "requiredTech": "Guilds",
   "cost": 120,
+  "maintenance": 1,
 		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[5]% [Happiness] [in this city]"],
 		"quote": "Le château de Versaille sans appartement pour le roi la reine et les enfants du roi n'est pas Versailles  ."
 	},
@@ -133,6 +135,7 @@
   "uniqueTo": "Royaume de France",
   "requiredTech": "Guilds",
   "cost": 120,
+  "maintenance": 1,
 		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[-20]% City-State Influence degradation"],
 		"quote": "Le château de Versaille a été construit pour pouvoir accueillir du monde, ainsi Versailles à besoin de nombreux appartement pour ses invités diplomatique."
 	},
@@ -141,6 +144,7 @@
   "uniqueTo": "Royaume de France",
   "requiredTech": "Guilds",
   "cost": 120,
+  "maintenance": 1,
 		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Culture] [in this city]"],
 		"quote": "Pour faire rayonner la culture et l'art français, et car le roi et un amateur d'art, la château de Versailles à besoin de cette grande galerie."
 	},
@@ -149,6 +153,7 @@
   "uniqueTo": "Royaume de France",
   "requiredTech": "Guilds",
   "cost": 120,
+  "maintenance": 1,
 		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[20]% [Faith] [in this city]"],
 		"quote": "La famille royale et les invités sont très pieux, ainsi il est nécessaire pour Versailles d'avoir une chapelle royale."
 	},
@@ -157,6 +162,7 @@
   "uniqueTo": "Royaume de France",
   "requiredTech": "Guilds",
   "cost": 120,
+  "maintenance": 1,
 		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Science] [in this city]"],
 		"quote": "Un château a toujours besoin des bibliothèques pour son prestige, et le château de Versailles a une bibliothèque très prestigieuse."
 	},
@@ -165,6 +171,7 @@
   "uniqueTo": "Royaume de France",
   "requiredTech": "Guilds",
   "cost": 120,
+  "maintenance": 1,
 		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[15]% Production when constructing [All] units [in this city]"],
 		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
 	},
@@ -173,6 +180,7 @@
   "uniqueTo": "Royaume de France",
   "requiredTech": "Guilds",
   "cost": 120,
+  "maintenance": 1,
 		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Gold] [in this city]"],
 		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
 	},
