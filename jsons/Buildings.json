@@ -108,7 +108,7 @@
 		"happiness": 4,
   "gold": 2,
 		"isWonder": true,
-		"uniques": ["[+2 Food] if [Cuisine de Versailles] is constructed <in this city>","[+2 Happiness] if [Apparemments Royaux] is constructed <in this city>","Gifts of Gold to City-States generate [10]% more Influence if [Grands appartements] is constructed>","[+2 Culture] if [Galerie des glaces] is constructed <in this city>","[+2 Faith] if [Chapelle royale] is constructed <in this city>","[+2 Science] if [Bibliothèque de Versailles] is constructed <in this city>","[+2 Gold] if [Logement des courtisans] is constructed <in this city>","All newly-trained [All] units [in this city] receive the [Blitz] promotion if [Salle de garde de Versailles] is constructed>"],
+		"uniques": ["[+2 Food] if [Cuisine de Versailles] is constructed <in this city>","[+2 Happiness] if [Apparemments Royaux] is constructed <in this city>","Gifts of Gold to City-States generate [10]% more Influence <if [Grands appartements] is constructed>","[+2 Culture] if [Galerie des glaces] is constructed <in this city>","[+2 Faith] if [Chapelle royale] is constructed <in this city>","[+2 Science] if [Bibliothèque de Versailles] is constructed <in this city>","[+2 Gold] if [Logement des courtisans] is constructed <in this city>","All newly-trained [All] units [in this city] receive the [Blitz] promotion <if [Salle de garde de Versailles] is constructed>"],
 		"requiredTech": "Guilds",
 		"quote": "Le château de Versaille, lieu qui servait au roi Louis XIV pour les visites diplomatique d'état, qui permettait de montrer la grandeur et la puissance de la France."
   },
