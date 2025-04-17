@@ -114,50 +114,66 @@
   },
 {
 		"name": "Cuisine de Versailles",
+  "uniqueTo": "Royaume de France",
+  "requiredTech": "Guilds",
   "cost": 120,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Food] [in this city]","Shown while unbuilable"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Food] [in this city]"],
 		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
 	},
 {
 		"name": "Apparemments Royaux",
+  "uniqueTo": "Royaume de France",
+  "requiredTech": "Guilds",
   "cost": 120,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[5]% [Happiness] [in this city]","Shown while unbuilable"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[5]% [Happiness] [in this city]"],
 		"quote": "Le château de Versaille sans appartement pour le roi la reine et les enfants du roi n'est pas Versailles  ."
 	},
 {
 		"name": "Grands appartements",
+  "uniqueTo": "Royaume de France",
+  "requiredTech": "Guilds",
   "cost": 120,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[-20]% City-State Influence degradation","Shown while unbuilable"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[-20]% City-State Influence degradation"],
 		"quote": "Le château de Versaille a été construit pour pouvoir accueillir du monde, ainsi Versailles à besoin de nombreux appartement pour ses invités diplomatique."
 	},
 {
 		"name": "Galerie des glaces",
+  "uniqueTo": "Royaume de France",
+  "requiredTech": "Guilds",
   "cost": 120,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Culture] [in this city]","Shown while unbuilable"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Culture] [in this city]"],
 		"quote": "Pour faire rayonner la culture et l'art français, et car le roi et un amateur d'art, la château de Versailles à besoin de cette grande galerie."
 	},
 {
 		"name": "Chapelle royale",
+  "uniqueTo": "Royaume de France",
+  "requiredTech": "Guilds",
   "cost": 120,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[20]% [Faith] [in this city]","Shown while unbuilable"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[20]% [Faith] [in this city]"],
 		"quote": "La famille royale et les invités sont très pieux, ainsi il est nécessaire pour Versailles d'avoir une chapelle royale."
 	},
 {
 		"name": "Bibliothèque de Versailles",
+  "uniqueTo": "Royaume de France",
+  "requiredTech": "Guilds",
   "cost": 120,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Science] [in this city]","Shown while unbuilable"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Science] [in this city]"],
 		"quote": "Un château a toujours besoin des bibliothèques pour son prestige, et le château de Versailles a une bibliothèque très prestigieuse."
 	},
 {
 		"name": "Salle de garde de Versailles",
+  "uniqueTo": "Royaume de France",
+  "requiredTech": "Guilds",
   "cost": 120,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[15]% Production when constructing [All] units [in this city]","Shown while unbuilable"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[15]% Production when constructing [All] units [in this city]"],
 		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
 	},
 {
 		"name": "Logement des courtisans",
+  "uniqueTo": "Royaume de France",
+  "requiredTech": "Guilds",
   "cost": 120,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Gold] [in this city]","Shown while unbuilable"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Gold] [in this city]"],
 		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
 	},
 { 
