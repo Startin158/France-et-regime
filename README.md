@@ -1,3 +1,3 @@
-# mod démocratie 
+#France et régime 
 
-un mod non fini sur un thème qui va probablement changer 
+Un mod qui ajoute tous les types de régimes qu'à connus la France ou les régimes qu'elle aurait pu connaître.
