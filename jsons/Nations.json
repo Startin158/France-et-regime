@@ -108,5 +108,43 @@
   "uniques": ["[+1 Culture] from every [National Wonder]","[+2 Culture] from every [World Wonder]","[15]% Production when constructing [National Wonder] buildings [in all cities]","[30]% Production when constructing [World Wondr] buildings [in capital]","Adopt [Démocratie]","[+1000 Production] from every [Castle]"],
 		"cities": ["Paris","Versailles","Lyon", "Marseille","Bordeaux","Toulouse","Nantes","Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy"]
 "spyNames": ["Louis","Marie","Jean","Pierre","Anne","François","Jacques","Claude","Marguerite", "Henri"]
+	},
+//La république des égaux n'a jamais existé, car la faction babouviste n'a pas réussi son coup d'état.Karl Marx reconnait en la Conjuration des Égaux « la première apparition d'un parti communiste réellement agissant»
+
+{
+		"name": "Republique des Égaux",
+		"leaderName": "Gracchus Babeuf",
+		"adjective": ["État communiste "],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "la révolution à apporter la démocratie, notre révolution apporte une démocratie égalitaire.",
+		"startIntroPart2": "La démocratie doit être totalement égalitaire, ils faut abolir tous ce qui nuit à l'égalité pour le bien de chacun.",
+		
+		"declaringWar": "Votre état ne traite pas tous son peuple de manière égalitaire, nous vous envahir pour abolir les privilèges et liberer votre peuple",
+		"attacked": "Vous allez regretter de nous avoir attaqué, nous nous batterons tous, unis contre votre tyrannie",
+		"defeated": "Vous nous avez vaincus ? Vous avez détruit notre utopie. Vous êtes un monstre...",
+		"introduction": "Nous souhaitons créee un monde sans inégalités, ou chacun est réellement égal, suivrirez-vous nous ?",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Je vous écoutes.","De quoi avet vous besoin ?","Nous sommes prêt à vous écouter."],
+		"neutralNo": ["Il nous est impossible d'accepter.","Nous devons refusé votre requête ","C'est non, désolé."],
+		"neutralYes": ["Nous acceptons ce marché.","Cela peut renforcer nos deux pays.","Ça va être utile pour notre nation ."],
+
+		"hateHello": "Tyran privilégié, sans ceux vous n'êtes rien.",
+		"hateLetsHearIt": ["On ne commerce pas avec vous.","N'essayez pas de corrompre notre utopie avec votre or.","Partez."],
+		"hateNo": ["Npus ne commençons pas avec des tyrans de votre sorte.","Allez vous en"],
+		"hateYes": ["Bon... d'accord.","...","Quelle honte, commercer avec vous..."],
+		
+		"afterPeace": "Vous essayer vraiment de détruire notre utopie ? Vous allez constater ce qui arrive à nos opposants .",
+		"tradeRequest": "Nous aimerions commercer.",
+
+		
+        "outerColor": [ 255, 80, 80],
+        "innerColor": [225,185,185],
+		"uniquenames": "L'état égalitaire.",
+  "uniques": ["[+1 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]","Adopt [Démocratie]"]
+		"cities": ["Paris","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
+"spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	}
 ]
