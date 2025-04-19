@@ -1,5 +1,7 @@
 [
-    {
+//démocratie 
+
+ {
         "name": "Démocratie",
         "era": "Ancient era",
         "priorities": {
@@ -73,13 +75,18 @@
                 "row": 3,
                 "column": 5
 
-    },
-           
+    },     
 {
                 "name": "Démocratie Complete",
                 "uniques": ["[+15]% growth [in all cities]","Gain a free [Gouvernement] [in capital]"]
             }
         ]
+
+
+
+
+
+
     },
 {
         "name": "Totalitarisme",
@@ -97,68 +104,51 @@
         ],
         "policies": [
             {
-                "name": "Pratiques démocratique",
-                "uniques": [
-                    "[+1 Science] per [8] population [in all cities]",
-                    "[+1 Culture] per [8] population [in all cities]"
+                "name": "Peine de mort",
+                "uniques": ["Earn [20]% of killed [All] unit's [Strength] as [Production]","Earn [5]% of killed [All] unit's [Cost] as [Gold]"]"
                 ],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "Suffrage",
-                "uniques": [
-                    "[+1 Happiness] per [12] population [in all cities]","[+5]% [Happiness] [in all cities]"
-                ],
+                "name": "Culte de la personnalité",
+                "uniques": ["[Happiness] per [6] population [in all cities] <when above [7] [Happiness]>","[12]% [Production] [in all cities] <during a Golden Age>"],
                 "row": 1,
+                "column": 6
+            },
+            {
+                "name": "Élimination des opposants",
+                "uniques": ["Enemy [Barbarian] units must spend [2] extra movement points when inside your territory","[20]% Strength for cities <during a Golden Age>","[40]% Strength for cities"],
+                "requires": ["Culte de la personnalit",""Peine de mort"],
+                "row": 2,
                 "column": 3
             },
             {
-                "name": "Croyances au système",
-                "uniques": [
-                    "[+50]% Strength for cities","[100]% Strength <for units without [Agressif]> <when defending>",
-                    "[+10]% weight to this choice for AI decisions"
-                ],
-                "row": 1,
-                "column": 5
-            },
-            {
-                "name": "Pluralisme",
-                "uniques": [
-                    "[+5]% [Culture] [in all cities]","[+5]% [Science] [in all cities]"]
-                "requires": ["Pratiques démocratique"],
-                "row": 2,
+                "name": "Acquisition du pouvoir législatif",
+                "uniques": ["Free Great Person","Free Great Person"]
+                "row": 3,
                 "column": 1
-            },
-            {
-                "name": "Suffrage universel",
-                "uniques": [
-                    "[+2 Gold] per [12] population [in all cities]","[+1 Happiness] per [12] population [in all cities]"]
-                "requires": ["Suffrage"],
-                "row": 2,
-                "column": 3
+                "requires": ["Élimination des opposants"],
             },
   {
-                "name": "Aménagement",
-                "uniques": [
-                    "[+2 Production] per [10] population [in all cities]","May buy [Lieu démocratique] buildings with [Gold] for [2] times their normal Production cost"]
-                "requires": ["Suffrage universel"],
-                "requires": ["Pluralisme"],
+                "name": "Acquisition du pouvoir exécutif",
+                "uniques": ["[12]% Production when constructing [All] buildings [in all cities]"]
                 "row": 3,
-                "column": 2
+                "column": 3
+                "requires": ["Élimination des opposants"],
             },
 {
-                "name": "Engagement citoyen",
-                "uniques": [
-                    "[+25]% Strength for cities","May buy [Civil guerrier] units with [Gold] for [2] times their normal Production cost"]
+                "name": "Acquisition du pouvoir judiciaire",
+                "uniques": ["[12]% Production when constructing [All] units [in all cities]"]
                 "requires": ["Croyances au système"],
                 "row": 3,
-                "column": 5
+                "column": 6
+                "requires": ["Élimination des opposants"],
 
     },
            
 {
-                "name": "Démocratie Complete",
+                "name": "Totalitarisme Complete"
                 "uniques": ["[+15]% growth [in all cities]","Gain a free [Gouvernement] [in capital]"]
             }
         ]
