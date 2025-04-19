@@ -105,7 +105,7 @@
         "outerColor": [ 255, 255, 255],
         "innerColor": [180,180,230],
 		"uniquenames": "Le royaume du roi soleil.",
-  "uniques": ["[+1 Culture] from every [National Wonder]","[+2 Culture] from every [World Wonder]","[15]% Production when constructing [National Wonder] buildings [in all cities]","[30]% Production when constructing [World Wondr] buildings [in capital]","Adopt [Démocratie]","[+1000 Production] from every [Castle]"],
+  "uniques": ["[+1 Culture] from every [National Wonder]","[+2 Culture] from every [World Wonder]","[15]% Production when constructing [National Wonder] buildings [in all cities]","[30]% Production when constructing [World Wondr] buildings [in capital]","Adopt [Démocratie]"],
 		"cities": ["Paris","Versailles","Lyon", "Marseille","Bordeaux","Toulouse","Nantes","Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy"]
 "spyNames": ["Louis","Marie","Jean","Pierre","Anne","François","Jacques","Claude","Marguerite", "Henri"]
 	},
@@ -131,7 +131,7 @@
 		"neutralNo": ["Il nous est impossible d'accepter.","Nous devons refusé votre requête ","C'est non, désolé."],
 		"neutralYes": ["Nous acceptons ce marché.","Cela peut renforcer nos deux pays.","Ça va être utile pour notre nation ."],
 
-		"hateHello": "Tyran privilégié, sans ceux vous n'êtes rien.",
+		"hateHello": "Tyran privilégié, sans priviléges vous n'êtes rien.",
 		"hateLetsHearIt": ["On ne commerce pas avec vous.","N'essayez pas de corrompre notre utopie avec votre or.","Partez."],
 		"hateNo": ["Npus ne commençons pas avec des tyrans de votre sorte.","Allez vous en"],
 		"hateYes": ["Bon... d'accord.","...","Quelle honte, commercer avec vous..."],
