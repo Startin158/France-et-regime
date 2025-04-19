@@ -105,7 +105,7 @@
         "policies": [
             {
                 "name": "Peine de mort",
-                "uniques": ["Earn [20]% of killed [All] unit's [Strength] as [Production]","Earn [5]% of killed [All] unit's [Cost] as [Gold]"]"
+                "uniques": ["Earn [20]% of killed [All] unit's [Strength] as [Production]","Earn [5]% of killed [All] unit's [Cost] as [Gold]"]
                 ],
                 "row": 1,
                 "column": 1
@@ -119,7 +119,7 @@
             {
                 "name": "Élimination des opposants",
                 "uniques": ["Enemy [Barbarian] units must spend [2] extra movement points when inside your territory","[20]% Strength for cities <during a Golden Age>","[40]% Strength for cities"],
-                "requires": ["Culte de la personnalit",""Peine de mort"],
+                "requires": ["Culte de la personnalit","Peine de mort"],
                 "row": 2,
                 "column": 3
             },
@@ -149,7 +149,7 @@
            
 {
                 "name": "Totalitarisme Complete"
-                "uniques": ["[+15]% growth [in all cities]","Gain a free [Gouvernement] [in capital]"]
+                "uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [30] turns"]
             }
         ]
     }
