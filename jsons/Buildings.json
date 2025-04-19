@@ -42,6 +42,7 @@
 		"name": "Petite barricade",
   "replaces": "Walls",
   "uniqueTo": "Commune de Paris"
+  "happiness": 1,
 		"cityStrength": 7,
 		"cityHealth": 55,
 		"hurryCostModifier":30,
@@ -53,6 +54,7 @@
 		"name": "Barricade",
   "replaces": "Castle",
   "uniqueTo": "Commune de Paris"
+  "happiness": 1,
 		"cityStrength": 9,
 		"cityHealth": 30,
 		"hurryCostModifier": 30,
@@ -65,6 +67,7 @@
 		"name": "Barricade conséquente",
   "replaces": "Arsenal",
   "uniqueTo": "Commune de Paris"
+  "happiness": 1,
 		"cost": 120,
 		"cityStrength": 12,
 		"cityHealth": 35,
@@ -77,6 +80,7 @@
 		"name": "Barricade gigantesque",
   "replaces": "Military Base",
   "uniqueTo": "Commune de Paris"
+  "happiness": 1,
   "cost": 180,
 		"cityStrength": 15,
 		"cityHealth": 32,
@@ -89,6 +93,7 @@
 		"name": "Barricade imprenable",
   "replaces": "Bomb Shelter",
   "uniqueTo": "Commune de Paris"
+  "happiness": 1,
 		"cost": 300,
   "cityStrength": 10,
 		"cityHealth": 20,
@@ -118,7 +123,7 @@
   "requiredTech": "Guilds",
   "cost": 120,
   "maintenance": 1,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Food] [in this city]"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Food] [in all cities]"],
 		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
 	},
 {
@@ -127,7 +132,7 @@
   "requiredTech": "Guilds",
   "cost": 120,
   "maintenance": 1,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[5]% [Happiness] [in this city]"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[8]% [Happiness] [in all cities]"],
 		"quote": "Le château de Versaille sans appartement pour le roi la reine et les enfants du roi n'est pas Versailles  ."
 	},
 {
@@ -145,7 +150,7 @@
   "requiredTech": "Guilds",
   "cost": 120,
   "maintenance": 1,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Culture] [in this city]"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[8]% [Culture] [in all cities]"],
 		"quote": "Pour faire rayonner la culture et l'art français, et car le roi et un amateur d'art, la château de Versailles à besoin de cette grande galerie."
 	},
 {
@@ -154,7 +159,7 @@
   "requiredTech": "Guilds",
   "cost": 120,
   "maintenance": 1,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[20]% [Faith] [in this city]"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Faith] [in all cities]"],
 		"quote": "La famille royale et les invités sont très pieux, ainsi il est nécessaire pour Versailles d'avoir une chapelle royale."
 	},
 {
@@ -163,7 +168,7 @@
   "requiredTech": "Guilds",
   "cost": 120,
   "maintenance": 1,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Science] [in this city]"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[8]% [Science] [in all cities]"],
 		"quote": "Un château a toujours besoin des bibliothèques pour son prestige, et le château de Versailles a une bibliothèque très prestigieuse."
 	},
 {
@@ -172,7 +177,7 @@
   "requiredTech": "Guilds",
   "cost": 120,
   "maintenance": 1,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[15]% Production when constructing [All] units [in this city]"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[15]% Production when constructing [All] units [in all cities]"],
 		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
 	},
 {
@@ -181,7 +186,7 @@
   "requiredTech": "Guilds",
   "cost": 120,
   "maintenance": 1,
-		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[10]% [Gold] [in this city]"],
+		"uniques": ["Can only be built <in cities with a [Château de Versailles]>","[8]% [Gold] [in all cities]"],
 		"quote": "Le château de Versaille à besoin d'une bonne cuisine pour accueillir les invités ."
 	},
 { 
