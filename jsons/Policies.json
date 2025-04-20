@@ -166,7 +166,7 @@
             "Domination": 7,
             "Scientific": 8,
         },
-        "uniques": ["[+4 Production] [in your cities]","[-999]% [Gold]"],
+        "uniques": ["[+4 Production] [in your cities]","Nullifies [Gold]"],
         "policies": [
             {
                 "name": "Abolition des propriétés",
