@@ -96,13 +96,12 @@
             "Domination": 6,
             "Scientific": 3,
         },
-        "uniques": ["[50]% Unhappiness from [Specialists] [in all cities with a garrison]","Only available <before adopting [Démocratie]>","[-30]% weight to this choice for AI decisions"
+        "uniques": ["[-40]% Unhappiness from [Population] [in all cities with a garrison]","Only available <before adopting [Démocratie]>","[-30]% weight to this choice for AI decisions"
         ],
         "policies": [
             {
                 "name": "Peine de mort",
-                "uniques": ["Earn [20]% of killed [All] unit's [Strength] as [Production]","Earn [5]% of killed [All] unit's [Cost] as [Gold]"]
-                ],
+                "uniques": ["Earn [20]% of killed [All] unit's [Strength] as [Production]","Earn [5]% of killed [All] unit's [Cost] as [Gold]"],
                 "row": 1,
                 "column": 1
             },
