@@ -105,7 +105,7 @@
         "outerColor": [ 255, 255, 255],
         "innerColor": [180,180,230],
 		"uniquenames": "Le royaume du roi soleil.",
-  "uniques": ["[+1 Culture] from every [National Wonder]","[+2 Culture] from every [World Wonder]","[15]% Production when constructing [National Wonder] buildings [in all cities]","[30]% Production when constructing [World Wondr] buildings [in capital]","Adopt [Démocratie]"],
+  "uniques": ["[+1 Culture] from every [National Wonder]","[+2 Culture] from every [World Wonder]","[15]% Production when constructing [National Wonder] buildings [in all cities]","[30]% Production when constructing [World Wondr] buildings [in capital]","Adopt [Totalitarisme]"],
 		"cities": ["Paris","Versailles","Lyon", "Marseille","Bordeaux","Toulouse","Nantes","Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy"]
 "spyNames": ["Louis","Marie","Jean","Pierre","Anne","François","Jacques","Claude","Marguerite", "Henri"]
 	},
@@ -143,7 +143,7 @@
         "outerColor": [ 255, 20, 20],
         "innerColor": [40,5,8],
 		"uniquenames": "L'état égalitaire.",
-  "uniques": ["[+1 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]","Adopt [Démocratie]"]
+  "uniques": ["[+1 Happiness] [in all cities]","Adopt [Démocratie]"]
 		"cities": ["Paris","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
 "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	}
