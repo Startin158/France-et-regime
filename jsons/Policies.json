@@ -165,10 +165,7 @@
             "Domination": 7,
             "Scientific": 8,
         },
-        "uniques": [
-            "[+3 Culture] [in capital]",
-            "[+1 Happiness] [in all cities]","Only available <before adopting [Totalitarisme]>","[+8]% weight to this choice for AI decisions"
-        ],
+        "uniques": ["[+4 Production] [in your cities]","Nullifies [Gold] [in all cities]","Only available <before adopting [Totalitarisme]>"],
         "policies": [
             {
                 "name": "Pratiques démocratique",
