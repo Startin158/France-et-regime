@@ -183,7 +183,7 @@
             },
             {
                 "name": "Nationalisation des industries",
-                "uniques": ["[+1 Production] from all [Production] buildings","[+2  Production] from [Quarry] tiles [in all cities]","[+2 Production] from [Offshore Platform] tiles [in all cities]","[+2 Production] from [Oil well] tiles [in all cities]","[+1 Production] from [Camp] tiles [in all cities]","[+1 Production] from [Mine] tiles [in all cities]","[+3 Production] from [Manufactory] tiles [in all cities]"],
+                "uniques": ["[+1 Production] from all [Production] buildings","[+2 Production] from [Quarry] tiles [in all cities]","[+2 Production] from [Offshore Platform] tiles [in all cities]","[+2 Production] from [Oil well] tiles [in all cities]","[+1 Production] from [Camp] tiles [in all cities]","[+1 Production] from [Mine] tiles [in all cities]","[+3 Production] from [Manufactory] tiles [in all cities]"],
                 "row": 2,
                 "column": 3
                 "requires": ["Abolition des propriétés"],
