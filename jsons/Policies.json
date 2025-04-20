@@ -114,7 +114,7 @@
             {
                 "name": "Élimination des opposants",
                 "uniques": ["Enemy [Barbarian] units must spend [2] extra movement points when inside your territory","[20]% Strength for cities <during a Golden Age>","[40]% Strength for cities"],
-                "requires": ["Culte de la personnalit","Peine de mort"],
+                "requires": ["Culte de la personnalité","Peine de mort"],
                 "row": 2,
                 "column": 3
             },
@@ -165,7 +165,7 @@
             "Domination": 7,
             "Scientific": 8,
         },
-        "uniques": ["[+4 production] [in your cities]","Nullifies [Gold] [in all cities]","Only available <before adopting [Totalitarisme]>"],
+        "uniques": ["[+4 Production] [in your cities]","Nullifies [Gold] [in all cities]","Only available <before adopting [Totalitarisme]>"],
         "policies": [
             {
                 "name": "Abolition des propriétés",
