@@ -168,66 +168,47 @@
         "uniques": ["[+4 Production] [in your cities]","Nullifies [Gold] [in all cities]","Only available <before adopting [Totalitarisme]>"],
         "policies": [
             {
-                "name": "Pratiques démocratique",
-                "uniques": ["[+1 Science] per [8] population [in all cities]","[+1 Culture] per [8] population [in all cities]"
-                ],
+                "name": "Abolition des propriétés",
+                "uniques": ["City-State territory always counts as friendly territory"],
                 "row": 1,
-                "column": 1
-            },
-            {
-                "name": "Suffrage",
-                "uniques": [
-                    "[+1 Happiness] per [12] population [in all cities]","[+5]% [Happiness] [in all cities]"
-                ],
-                "row": 1,
-                "column": 3
-            },
-            {
-                "name": "Croyances au système",
-                "uniques": [
-                    "[+50]% Strength for cities","[100]% Strength <for units without [Agressif]> <when defending>",
-                    "[+10]% weight to this choice for AI decisions"
-                ],
-                "row": 1,
-                "column": 5
-            },
-            {
-                "name": "Pluralisme",
-                "uniques": [
-                    "[+5]% [Culture] [in all cities]","[+5]% [Science] [in all cities]"]
-                "requires": ["Pratiques démocratique"],
-                "row": 2,
-                "column": 1
-            },
-            {
-                "name": "Suffrage universel",
-                "uniques": [
-                    "[+2 Gold] per [12] population [in all cities]","[+1 Happiness] per [12] population [in all cities]"]
-                "requires": ["Suffrage"],
-                "row": 2,
-                "column": 3
-            },
-  {
-                "name": "Aménagement",
-                "uniques": [
-                    "[+2 Production] per [10] population [in all cities]","May buy [Lieu démocratique] buildings with [Gold] for [2] times their normal Production cost"]
-                "requires": ["Suffrage universel"],
-                "requires": ["Pluralisme"],
-                "row": 3,
                 "column": 2
             },
-{
-                "name": "Engagement citoyen",
-                "uniques": [
-                    "[+25]% Strength for cities","May buy [Civil guerrier] units with [Gold] for [2] times their normal Production cost"]
-                "requires": ["Croyances au système"],
+            {
+                "name": "Collectivisation des terres",
+                "uniques": ["[+2 Food] from all [Food] buildings","[+2 Food] from [Plantation] tiles [in all cities]","[+2 Food] from [Pasture] tiles [in all cities]","[+1 Food] from [Farm] tiles [in all cities]","[+1 Food] from [Camp] tiles [in all cities]","[+2 Food] from [Oasis] tiles [in all cities]","[+2 Food] from [Plantation] tiles [in all cities]"],
+                "row": 2,
+                "column": 1
+                "requires": ["Abolition des propriétés"],
+            },
+            {
+                "name": "Nationalisation des industries",
+                "uniques": ["[+1 Production] from all [Production] buildings","[+2  Production] from [Quarry] tiles [in all cities]","[+2  Production] from [Offshore Platform] tiles [in all cities]","[+2  Production] from [Oil well] tiles [in all cities]","[+1  Production] from [Camp] tiles [in all cities]","[+1  Production] from [Mine] tiles [in all cities]","[+3 Production] from [Manufactory] tiles [in all cities]"],
+                "row": 2,
+                "column": 3
+                "requires": ["Abolition des propriétés"],
+            },
+            {
+                "name": "Santé pour tous",
+                "uniques": ["[+2 Food] [in all cities]","[+1 Production] from all [Food] buildings"]
+                "row": 1,
+                "column": 6
+            },
+            {
+                "name": "Éducation pour tous",
+                "uniques": ["[+2 Science] [in all cities]","[+1 Production] from all [Science] buildings"]
+                "row": 2,
+                "column": 6
+            },
+  {
+                "name": "Musée pour tous",
+                "uniques": ["[+2 Culture] [in all cities]","[+1 Production] from all [Culture] buildings"]
                 "row": 3,
-                "column": 5
+                "column": 6
 
     },     
 {
-                "name": "Démocratie Complete",
-                "uniques": ["[+15]% growth [in all cities]","Gain a free [Gouvernement] [in capital]"]
+                "name": "Communisme Complete",
+                "uniques": ["[+1 Production] from all [Happiness] buildings","[+1 Production] from all [Gold] buildings","[+1 Happiness] from [Trading post] tiles [in all cities]","[+1 Production] from [Trading post] tiles [in all cities]"]
             }
         ]
      }
