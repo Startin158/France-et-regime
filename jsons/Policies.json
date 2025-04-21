@@ -166,7 +166,64 @@
             "Domination": 7,
             "Scientific": 8,
         },
-        "uniques": ["[+4 Production] [in all cities]","Nullifies [Gold] [in all cities]","No Maintenance costs for improvements in [all] tiles","[-100]% maintenance on road & railroads","[3571] units cost no maintenance","[-100]% [Gold] from every [all]","[-100]% maintenance cost for buildings [in all cities]","[-100]% maintenance costs"],
+        "uniques": ["Only available <before adopting [Capitalisme]>","[+4 Production] [in all cities]","Nullifies [Gold] [in all cities]","No Maintenance costs for improvements in [all] tiles","[-100]% maintenance on road & railroads","[3571] units cost no maintenance","[-100]% [Gold] from every [all]","[-100]% maintenance cost for buildings [in all cities]","[-100]% maintenance costs"],
+        "policies": [
+            {
+                "name": "Abolition des propriétés",
+                "uniques": ["City-State territory always counts as friendly territory"],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Collectivisation des terres",
+                "uniques": ["[+2 Food] from all [Food] buildings","[+2 Food] from [Plantation] tiles [in all cities]","[+2 Food] from [Pasture] tiles [in all cities]","[+1 Food] from [Farm] tiles [in all cities]","[+1 Food] from [Camp] tiles [in all cities]","[+2 Food] from [Oasis] tiles [in all cities]","[+2 Food] from [Plantation] tiles [in all cities]"],
+                "row": 2,
+                "column": 1
+                "requires": ["Abolition des propriétés"],
+            },
+            {
+                "name": "Nationalisation des industries",
+                "uniques": ["[+1 Production] from all [Production] buildings","[+2 Production] from [Quarry] tiles [in all cities]","[+2 Production] from [Offshore Platform] tiles [in all cities]","[+2 Production] from [Oil well] tiles [in all cities]","[+1 Production] from [Camp] tiles [in all cities]","[+1 Production] from [Mine] tiles [in all cities]","[+3 Production] from [Manufactory] tiles [in all cities]"],
+                "row": 2,
+                "column": 3
+                "requires": ["Abolition des propriétés"],
+            },
+            {
+                "name": "Santé pour tous",
+                "uniques": ["[+2 Food] [in all cities]","[+1 Production] from all [Food] buildings"]
+                "row": 1,
+                "column": 6
+            },
+            {
+                "name": "Éducation pour tous",
+                "uniques": ["[+2 Science] [in all cities]","[+1 Production] from all [Science] buildings"]
+                "row": 2,
+                "column": 6
+            },
+  {
+                "name": "Musée pour tous",
+                "uniques": ["[+2 Culture] [in all cities]","[+1 Production] from all [Culture] buildings"]
+                "row": 3,
+                "column": 6
+
+    },     
+{
+                "name": "Communisme Complete",
+                "uniques": ["[+1 Production] from all [Happiness] buildings","[+1 Production] from all [Gold] buildings","[+1 Happiness] from [Trading post] tiles [in all cities]","[+1 Production] from [Trading post] tiles [in all cities]"]
+            }
+        ]
+     },
+{
+        "name": "Capitalisme",
+        "era": "Industrial era",
+        "priorities": {
+            "Neutral": 1,
+            "Cultural": 6,
+            "Diplomatic": 7,
+            "Domination": 7,
+            "Scientific": 8,
+        },
+        "uniques": ["Only available <before adopting [Communisme]>","[+4 Production] [in all cities]","Nullifies [Gold] [in all cities]","No Maintenance costs for improvements in [all] tiles","[-100]% maintenance on road & railroads","[3571] units cost no maintenance","[-100]% [Gold] from every [all]","[-100]% maintenance cost for buildings [in all cities]","[-100]% maintenance costs"],
         "policies": [
             {
                 "name": "Abolition des propriétés",
