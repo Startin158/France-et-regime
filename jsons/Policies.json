@@ -226,47 +226,51 @@
         "uniques": ["Only available <before adopting [Communisme]>","[+4 Production] [in all cities]","Nullifies [Gold] [in all cities]","No Maintenance costs for improvements in [all] tiles","[-100]% maintenance on road & railroads","[3571] units cost no maintenance","[-100]% [Gold] from every [all]","[-100]% maintenance cost for buildings [in all cities]","[-100]% maintenance costs"],
         "policies": [
             {
-                "name": "Abolition des propriétés",
-                "uniques": ["City-State territory always counts as friendly territory"],
+                "name": "Recherche de la rentabilité",
+                "uniques": ["[+2  Gold] [in all cities]"],
                 "row": 1,
                 "column": 2
             },
             {
-                "name": "Collectivisation des terres",
-                "uniques": ["[+2 Food] from all [Food] buildings","[+2 Food] from [Plantation] tiles [in all cities]","[+2 Food] from [Pasture] tiles [in all cities]","[+1 Food] from [Farm] tiles [in all cities]","[+1 Food] from [Camp] tiles [in all cities]","[+2 Food] from [Oasis] tiles [in all cities]","[+2 Food] from [Plantation] tiles [in all cities]"],
+                "name": "Recherche de la compétitivité",
+                "uniques": ["[+2  Gold] [in all cities]"],
                 "row": 1,
                 "column": 5
             },
             {
-                "name": "Nationalisation des industries",
-                "uniques": ["[+1 Production] from all [Production] buildings","[+2 Production] from [Quarry] tiles [in all cities]","[+2 Production] from [Offshore Platform] tiles [in all cities]","[+2 Production] from [Oil well] tiles [in all cities]","[+1 Production] from [Camp] tiles [in all cities]","[+1 Production] from [Mine] tiles [in all cities]","[+3 Production] from [Manufactory] tiles [in all cities]"],
+                "name": "Production à moindre coût",
+                "uniques": ["No Maintenance costs for improvements in [Hill] tiles","[-40]% maintenance cost for buildings [in all cities]","[-50]% maintenance on road & railroads"],
                 "row": 2,
                 "column": 3
-                "requires": ["Abolition des propriétés"],
+                "requires": ["Recherche de la rentabilité"],
             },
             {
-                "name": "Santé pour tous",
-                "uniques": ["[+2 Food] [in all cities]","[+1 Production] from all [Food] buildings"]
-                "row": 1,
-                "column": 6
-            },
-            {
-                "name": "Éducation pour tous",
-                "uniques": ["[+2 Science] [in all cities]","[+1 Production] from all [Science] buildings"]
+                "name": "Diminution du coût de travail",
+                "uniques": ["Units in cities cost no Maintenance","[25] units cost no maintenance"]
                 "row": 2,
-                "column": 6
+                "column": 1
+                "requires": ["Recherche de la rentabilité"],
+            },
+            {
+                "name": "Concurrence dû aux innovations",
+                "uniques": ["[+3 Gold] from [Academy] tiles [in all cities]","[+2 Gold] from all [Science] buildings"]
+                "row": 2,
+                "column": 6,
+                "requires": ["Recherche de la compétitivité"],
             },
   {
-                "name": "Musée pour tous",
-                "uniques": ["[+2 Culture] [in all cities]","[+1 Production] from all [Culture] buildings"]
-                "row": 3,
-                "column": 6
+                "name": "Concurrence dû aux caractéristiques",
+                "uniques": ["[+1 Gold] from [Strategic resource] tiles [in all cities]","[+2 Gold] from [Luxury resource] tiles [in all cities]"]
+                "row": 2,
+                "column": 4,
+                "requires": ["Recherche de la compétitivité"],
 
     }, 
-                "name": "Musée pour tous",
-                "uniques": ["[+2 Culture] [in all cities]","[+1 Production] from all [Culture] buildings"]
+                "name": "Croissance endogène",
+                "uniques": ["[+1 Gold] from every [Gold]"]
                 "row": 3,
-                "column": 6
+                "column": 4,
+                "requires": ["Production à moindre coût","Diminution du coût de travail","oncurrence dû aux innovations","Concurrence dû aux caractéristiques"],
 {
                 "name": "Capitalisme Complete",
                 "uniques": ["[+20]% [Gold] [in all cities]"]
