@@ -192,7 +192,7 @@
 //république des égaux 
 {
 		"name": "Centre des revenus",
-  "uniqueTo": "République des égaux",
+  "uniqueTo": "République des Égaux",
   "requiredTech": "Guilds",
   "cost": 120,
   "maintenance": 1,
@@ -201,7 +201,7 @@
 	{
 		"name": "école de l'égalité",
 		"replaces": "University",
-		"uniqueTo": "République des égaux",
+		"uniqueTo": "République des Égaux",
 		"cost": 125,
 		"hurryCostModifier": 15,
 		"happiness": 1,
