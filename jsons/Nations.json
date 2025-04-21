@@ -112,7 +112,7 @@
 //La république des égaux n'a jamais existé, car la faction babouviste n'a pas réussi son coup d'état.Karl Marx reconnait en la Conjuration des Égaux « la première apparition d'un parti communiste réellement agissant»
 
 {
-		"name": "Republique des Égaux",
+		"name": "République des Égaux",
 		"leaderName": "Gracchus Babeuf",
 		"adjective": ["État communiste "],
 		"startBias": ["Plains"],
