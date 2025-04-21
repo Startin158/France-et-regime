@@ -198,6 +198,7 @@
   "maintenance": 1,
 		"uniques": ["[+1 Food] per [1] population [in this city]"],
 		"quote": "Il n'y a plus de monaie dans cette belle république, ainsi les revenus versé équitablement à chaque citoyen se fait en nature."
+  },
 	{
 		"name": "école de l'égalité",
 		"replaces": "University",
