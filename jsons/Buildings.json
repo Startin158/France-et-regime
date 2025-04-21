@@ -212,7 +212,6 @@
 		"specialistSlots": {"Scientist": 2},
 		"uniques": ["All newly-trained [all] units [in this city] receive the [égaux] promotion","[+1 Culture] from [Jungle] tiles [in this city]","[+2 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
-},
 	},
 { 
 // doctrine 
