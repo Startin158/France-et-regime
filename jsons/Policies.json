@@ -223,7 +223,7 @@
             "Domination": 7,
             "Scientific": 8,
         },
-        "uniques": ["Only available <before adopting [Communisme]>","[Great Scientist] is earned [25]% faster"],
+        "uniques": ["Only available <before adopting [Communisme]>","[Great Merchant] is earned [25]% faster"],
         "policies": [
             {
                 "name": "Recherche de la rentabilité",
