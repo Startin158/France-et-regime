@@ -166,7 +166,7 @@
             "Domination": 7,
             "Scientific": 8,
         },
-        "uniques": ["[+4 Production] [in all cities]","Nullifies [Gold] [in all cities]","No Maintenance costs for improvements in [all] tiles","[0]% maintenance on road & railroads","[3571] units cost no maintenance","[-100]% [Gold] from every [all]","[0]% maintenance cost for buildings [in all cities]","[0]% maintenance costs"],
+        "uniques": ["[+4 Production] [in all cities]","Nullifies [Gold] [in all cities]","No Maintenance costs for improvements in [all] tiles","[-100]% maintenance on road & railroads","[3571] units cost no maintenance","[-100]% [Gold] from every [all]","[-100]% maintenance cost for buildings [in all cities]","[-100]% maintenance costs"],
         "policies": [
             {
                 "name": "Abolition des propriétés",
