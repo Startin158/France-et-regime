@@ -196,7 +196,7 @@
   "requiredTech": "Guilds",
   "cost": 120,
   "maintenance": 1,
-		"uniques": [""],
+		"uniques": ["[+1 Food] per [1] population [in this city]"],
 		"quote": "Il n'y a plus de monaie dans cette belle république, ainsi les revenus versé équitablement à chaque citoyen se fait en nature."
 	{
 		"name": "école de l'égalité",
@@ -209,7 +209,7 @@
   "science" : 1,
   "percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
-		"uniques": ["","[+2 Culture] from [Jungle] tiles [in this city]","[+1 Science] from [Jungle] tiles [in this city]"],
+		"uniques": ["All newly-trained [all] units [in this city] receive the [égaux] promotion","[+1 Culture] from [Jungle] tiles [in this city]","[+2 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
 },
 	},
