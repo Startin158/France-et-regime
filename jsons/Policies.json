@@ -266,11 +266,13 @@
                 "requires": ["Recherche de la compétitivité"],
 
     }, 
+  {
                 "name": "Croissance endogène",
                 "uniques": ["[+1 Gold] from every [Gold]"]
                 "row": 3,
                 "column": 4,
                 "requires": ["Production à moindre coût","Diminution du coût de travail","oncurrence dû aux innovations","Concurrence dû aux caractéristiques"],
+    },
 {
                 "name": "Capitalisme Complete",
                 "uniques": ["[+20]% [Gold] [in all cities]"]
