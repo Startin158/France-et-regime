@@ -227,13 +227,13 @@
         "policies": [
             {
                 "name": "Recherche de la rentabilité",
-                "uniques": ["[+2  Gold] [in all cities]"],
+                "uniques": ["[+2 Gold] [in all cities]"],
                 "row": 1,
                 "column": 2
             },
             {
                 "name": "Recherche de la compétitivité",
-                "uniques": ["[+2  Gold] [in all cities]"],
+                "uniques": ["[+2 Gold] [in all cities]"],
                 "row": 1,
                 "column": 5
             },
@@ -271,7 +271,7 @@
                 "uniques": ["[+1 Gold] from every [Gold]"]
                 "row": 3,
                 "column": 4,
-                "requires": ["Production à moindre coût","Diminution du coût de travail","oncurrence dû aux innovations","Concurrence dû aux caractéristiques"],
+                "requires": ["Production à moindre coût","Diminution du coût de travail","concurrence dû aux innovations","Concurrence dû aux caractéristiques"],
     },
 {
                 "name": "Capitalisme Complete",
