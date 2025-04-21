@@ -3,19 +3,11 @@
 	{
 		"name": "Agressif",
 		"uniques": ["[This Unit] heals [1] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": [],
-		"innerColor": [195,53,43],
-		"outerColor": [253,236,234],
         "row": 100,
         "column": 100
     },
   {
 		"name": "égaux",
 		"uniques": ["Ignores terrain cost", "No defensive terrain penalty"],
-		"unitTypes": [],
-		"innerColor": [195,53,43],
-		"outerColor": [253,236,234],
-        "row": 10,
-        "column": 1
     }
 ]
