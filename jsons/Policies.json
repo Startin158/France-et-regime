@@ -223,7 +223,7 @@
             "Domination": 7,
             "Scientific": 8,
         },
-        "uniques": ["Only available <before adopting [Communisme]>","[+4 Production] [in all cities]","Nullifies [Gold] [in all cities]","No Maintenance costs for improvements in [all] tiles","[-100]% maintenance on road & railroads","[3571] units cost no maintenance","[-100]% [Gold] from every [all]","[-100]% maintenance cost for buildings [in all cities]","[-100]% maintenance costs"],
+        "uniques": ["Only available <before adopting [Communisme]>","[Great Scientist] is earned [25]% faster"],
         "policies": [
             {
                 "name": "Recherche de la rentabilité",
