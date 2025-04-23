@@ -105,7 +105,7 @@
         "outerColor": [ 255, 255, 255],
         "innerColor": [180,180,230],
 		"uniquenames": "Le royaume du roi soleil.",
-  "uniques": ["[+1 Culture] from every [National Wonder]","[+2 Culture] from every [World Wonder]","[15]% Production when constructing [National Wonder] buildings [in all cities]","[30]% Production when constructing [World Wondr] buildings [in capital]","Adopt [Totalitarisme]"],
+  "uniques": ["[+1 Culture] from every [National Wonder]","[+1 Culture] [in all cities] from every [World Wonder]","[15]% Production when constructing [National Wonder] buildings [in all cities]","[30]% Production when constructing [World Wonder] buildings [in capital]","Adopt [Totalitarisme]"],
 		"cities": ["Paris","Versailles","Lyon", "Marseille","Bordeaux","Toulouse","Nantes","Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy"]
 "spyNames": ["Louis","Marie","Jean","Pierre","Anne","François","Jacques","Claude","Marguerite", "Henri"]
 	},
