@@ -40,12 +40,12 @@ BuildingIcons/Barricade imprenable
   offset: 0, 0
   index: -1
 
-barricade.png
+egaux.png
 size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Petite barricade
+NationIcons/République des Égaux
   rotate: false
   xy: 0, 50
   size: 700, 700
