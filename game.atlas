@@ -1,13 +1,13 @@
 
 barricade.png
-size: 512, 128
+size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Barricade
   rotate: false
-  xy: 50, 50
-  size: 100, 100
+  xy: 125, 50
+  size: 600, 500
   orig: 100, 100
   offset: 0, 0
   index: -1
