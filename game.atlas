@@ -4,7 +4,7 @@ size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/PetiteBarricade
+BuildingIcons/Petite barricade
   rotate: false
   xy: 0, 50
   size: 700, 700
@@ -18,7 +18,7 @@ BuildingIcons/Barricade
   orig: 700, 700
   offset: 0, 0
   index: -1
-BuildingIcons/Barricade
+BuildingIcons/Barricade conséquente
   rotate: false
   xy: 0, 50
   size: 700, 700
@@ -32,7 +32,7 @@ BuildingIcons/Barricade
   orig: 700, 700
   offset: 0, 0
   index: -1
-BuildingIcons/Barricade
+BuildingIcons/Barricade imprenable 
   rotate: false
   xy: 0, 50
   size: 700, 700
