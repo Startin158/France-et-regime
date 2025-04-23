@@ -79,12 +79,12 @@ BuildingIcons/Petite barricade
   offset: 0, 0
   index: -1
 
-barricade.png
+Communedeparis.png
 size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Petite barricade
+NationIcons/La commune de Paris 
   rotate: false
   xy: 0, 50
   size: 700, 700
