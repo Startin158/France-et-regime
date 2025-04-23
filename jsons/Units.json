@@ -91,15 +91,7 @@
   
 	},
 // le Royaume de France 
-{
- "name": "Civil guerrier",
- 	"unitType": "Sword",
-		"movement": 3,
-		"strength": 10,
-  "cost": 25,
-		"attackSound": "nonmetalhit",
-  "uniques" :["Can be added to [Château de Versailles] in the Capital"],
-},
+
 
 // doctrine 
 // démocratie 
