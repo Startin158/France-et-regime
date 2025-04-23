@@ -6,8 +6,8 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Barricade
   rotate: false
-  xy: 125, 50
-  size: 600, 500
-  orig: 100, 100
+  xy: 0, 00
+  size: 700, 700
+  orig: 700, 700
   offset: 0, 0
   index: -1
