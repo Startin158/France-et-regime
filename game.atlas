@@ -25,7 +25,7 @@ BuildingIcons/Barricade conséquente
   orig: 700, 700
   offset: 0, 0
   index: -1
-BuildingIcons/Barricade
+BuildingIcons/Barricade gigantesque
   rotate: false
   xy: 0, 50
   size: 700, 700
