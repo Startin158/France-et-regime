@@ -53,12 +53,12 @@ NationIcons/République des Égaux
   offset: 0, 0
   index: -1
 
-barricade.png
+royaume.png
 size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Petite barricade
+NationIcons/Royaume de France 
   rotate: false
   xy: 0, 50
   size: 700, 700
