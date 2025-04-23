@@ -7,38 +7,39 @@ repeat: none
 BuildingIcons/Petite barricade
   rotate: false
   xy: 0, 50
-  size: 700, 700
+  size: 650, 650
   orig: 700, 700
   offset: 0, 0
   index: -1
 BuildingIcons/Barricade
   rotate: false
   xy: 0, 50
-  size: 700, 700
+  size: 650, 650
   orig: 700, 700
   offset: 0, 0
   index: -1
 BuildingIcons/Barricade conséquente
   rotate: false
   xy: 0, 50
-  size: 700, 700
+  size: 650, 650
   orig: 700, 700
   offset: 0, 0
   index: -1
 BuildingIcons/Barricade gigantesque
   rotate: false
   xy: 0, 50
-  size: 700, 700
+  size: 650, 650
   orig: 700, 700
   offset: 0, 0
   index: -1
 BuildingIcons/Barricade imprenable 
   rotate: false
   xy: 0, 50
-  size: 700, 700
+  size: 650, 650
   orig: 700, 700
   offset: 0, 0
   index: -1
+
 
 egaux.png
 size: 700, 700
