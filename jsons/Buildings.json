@@ -34,7 +34,7 @@
   "culture": 2,
   	"cost": 185,
 	 "uniqueTo": "Première République Française",
-  "uniques":"[+2 Culture] from [Great Improvement] tiles [in this city]",
+  "uniques": "[+2 Culture] from [Great Improvement] tiles [in this city]",
   "requiredTech": "Radio"
 },
 // Commune de Paris 
