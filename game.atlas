@@ -84,7 +84,7 @@ size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/La commune de Paris 
+NationIcons/Commune de Paris 
   rotate: false
   xy: 0, 50
   size: 700, 700
