@@ -31,7 +31,7 @@
         "outerColor": [ 38, 98, 255],
         "innerColor": [239,236,148],
 		"uniquenames": "La première démocratie moderne",
-  "uniques": ["[+1 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]","Adopt [Démocratie]"]
+  "uniques": ["[+2 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]","Adopt [Démocratie]"]
 		"cities": ["Paris","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
 "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	},
@@ -68,7 +68,7 @@
 		"outerColor": [4,4,4],
 		"innerColor": [180,0,225],
 		"uniquenames": "La première dictature du prolétariat"
-  "uniques": ["[Great General] is earned [50]% faster","[+2 Happiness] [in all cities] <when at war>","[+4 Production] [in all cities] <when at war>","Adopt [Démocratie]"]
+  "uniques": ["[Great General] is earned [50]% faster","[+3 Happiness] [in all cities] <when at war>","[+6 Production] [in all cities] <when at war>","Adopt [Démocratie]"]
 		"cities": ["1ème Arrondissements","2ème Arrondissements","3ème Arrondissement","4ème Arrondissement","5ème Arrondissement","6ème Arrondissement","7ème Arrondissement","8ème Arrondissement","9ème Arrondissement","10ème Arrondissement","11ème Arrondissement","12ème Arrondissement","13ème Arrondissement","14ème Arrondissement","15ème Arrondissement","16ème Arrondissement","17ème Arrondissement","18ème Arrondissement","19ème Arrondissement","20ème Arrondissement"]
 "spyNames": ["Jean", "Marie", "Jeanne", "Louis", "Marguerite", "Pierre", "Joseph", "Germaine", "Yvette", "Henri"]
 	},
@@ -105,7 +105,7 @@
         "outerColor": [ 255, 255, 255],
         "innerColor": [180,180,230],
 		"uniquenames": "Le royaume du roi soleil.",
-  "uniques": ["[+1 Culture] from every [National Wonder]","[+1 Culture] [in all cities] from every [World Wonder]","[15]% Production when constructing [National Wonder] buildings [in all cities]","[30]% Production when constructing [World Wonder] buildings [in capital]","Adopt [Totalitarisme]"],
+  "uniques": ["[+1 Culture] from every [National Wonder]","[+3 Culture] from every [World Wonder]","[20]% Production when constructing [National Wonder] buildings [in all cities]","[40]% Production when constructing [World Wonder] buildings [in capital]","Adopt [Totalitarisme]"],
 		"cities": ["Paris","Versailles","Lyon", "Marseille","Bordeaux","Toulouse","Nantes","Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy"]
 "spyNames": ["Louis","Marie","Jean","Pierre","Anne","François","Jacques","Claude","Marguerite", "Henri"]
 	},
@@ -146,7 +146,7 @@
         "outerColor": [ 255, 20, 20],
         "innerColor": [40,5,8],
 		"uniquenames": "L'état égalitaire.",
-  "uniques": ["[+1 Happiness] [in all cities]","[35]% growth [in all cities] <during a Golden Age>","Adopt [Communisme]"]
+  "uniques": ["[+1 Happiness] [in all cities]","[50]% growth [in all cities] <during a Golden Age>","Adopt [Communisme]"]
 		"cities": ["Paris","Lyon", "Marseille","Bordeaux","Toulouse","Nantes","Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy","Limoges","Poitiers","La-Rochelle"]
 "spyNames": ["Jean-Paul","Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	},
