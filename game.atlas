@@ -1,5 +1,5 @@
 
-barricade.png
+zBbarricade.png
 size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -41,34 +41,33 @@ BuildingIcons/Barricade imprenable
   index: -1
 
 
-egaux.png
+
+
+zNegaux.png
 size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/République des Égaux
   rotate: false
-  xy: 0, 250
+  xy: 0, 50
   size: 600, 600
   orig: 700, 700
   offset: 0, 0
   index: -1
-
-royaume.png
+zNroyaume.png
 size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Royaume de France 
   rotate: false
-  xy: 50, 230
+  xy: 50, 50
   size: 520, 520
   orig: 700, 700
   offset: 0, 0
   index: -1
-
-
-Communedeparis.png
+zNCommunedeparis.png
 size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -79,4 +78,16 @@ NationIcons/Commune de Paris
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
-  index: 1
+  index: -1
+zNgaule.png
+size: 700, 700
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/La Gaule 
+  rotate: false
+  xy: 0, 50
+  size: 600, 600
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
