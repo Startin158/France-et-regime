@@ -164,18 +164,18 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "la révolution à apporter la démocratie, notre révolution apporte une démocratie égalitaire.",
-		"startIntroPart2": "La démocratie doit être totalement égalitaire, ils faut abolir tous ce qui nuit à l'égalité pour le bien de chacun.",
+		"startIntroPart1": "Les peuples de la Gaule sont Unis sous mon insigne",
+		"startIntroPart2": "Les peuples Gaulois ne chuteronrt pas, que ce soit face au romain ou face à qui que ce soit",
 		
-		"declaringWar": "Votre état ne traite pas tous son peuple de manière égalitaire, nous vous envahir pour abolir les privilèges et liberer votre peuple",
-		"attacked": "Vous allez regretter de nous avoir attaqué, nous nous batterons tous, unis contre votre tyrannie",
-		"defeated": "Vous nous avez vaincus ? Vous avez détruit notre utopie. Vous êtes un monstre...",
-		"introduction": "Nous souhaitons créee un monde sans inégalités, ou chacun est réellement égal, suivrirez-vous nous ?",
+		"declaringWar": "Parmis votre population se trouve des peuples qui vous oppressé, nous vous déclarons la guerre pour les libérer",
+		"attacked": "Vous allez regretter, en déclarant cette guerre, vous déclarez la guerre à toutes la Gaule",
+		"defeated": "Me suis trompé ? votre domination sur la Gaule était peux être inévitable... Mais nous avons chuté avec honneur",
+		"introduction": "La Gaule est ravie de faire votre connaissance, nos peuples ont plein de choses à se partager.",
 		
 		"neutralHello": "Bonjour.",
-		"neutralLetsHearIt": ["Je vous écoutes.","De quoi avet vous besoin ?","Nous sommes prêt à vous écouter."],
-		"neutralNo": ["Il nous est impossible d'accepter.","Nous devons refusé votre requête ","C'est non, désolé."],
-		"neutralYes": ["Nous acceptons ce marché.","Cela peut renforcer nos deux pays.","Ça va être utile pour notre nation ."],
+		"neutralLetsHearIt": ["Que voulez vous?","Quelle est votre proposition ?","Quelle offre allez vous nous faire ?"],
+		"neutralNo": ["Nous ne pouvons pas accepter.","Il faut refusé votre demande "],
+		"neutralYes": ["C'est une proposition intéressante.","Avec plaisir."],
 
 		"hateHello": "Tyran privilégié, sans priviléges vous n'êtes rien.",
 		"hateLetsHearIt": ["On ne commerce pas avec vous.","N'essayez pas de corrompre notre utopie avec votre or.","Partez."],
