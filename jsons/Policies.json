@@ -175,7 +175,7 @@
             },
             {
                 "name": "économie concentré par oligarque",
-                "uniques": ["[-50]% [Gold] <if [Palace] is not constructed> <in this city>","[-25]% [Gold] <if [Villa de l'oligarque] is not constructed> <in this city>","[+300]% [Gold] <if [Villa de l'oligarque] is constructed> <in this city>","[+300]% [Gold] <if [Palace] is constructed>" <in this city>],
+                "uniques": ["[-50]% [Gold] <if [Palace] is not constructed> <in this city>","[-25]% [Gold] <if [Villa de l'oligarque] is not constructed> <in this city>","[+300]% [Gold] <if [Villa de l'oligarque] is constructed> <in this city>","[+300]% [Gold] <if [Palace] is constructed> <in this city>"],
                 "requires": ["Émergence des oligarque"],
                 "row": 2,
                 "column": 1
