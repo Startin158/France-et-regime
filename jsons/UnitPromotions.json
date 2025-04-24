@@ -10,6 +10,10 @@
 		"name": "égaux",
 		"uniques": ["Ignores terrain cost", "No defensive terrain penalty"],
     },
+   {
+		"name": "Fureur guerrière",
+		"uniques": ["Ignores terrain cost", "No defensive terrain penalty"],
+    },
   {
 		"name": "Protéger de l'oligarque",
 		"uniques": ["Heals [15] damage if it kills a unit", "[+33]% XP gained from combat"],
