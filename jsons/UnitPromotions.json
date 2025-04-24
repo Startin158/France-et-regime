@@ -9,5 +9,9 @@
   {
 		"name": "égaux",
 		"uniques": ["Ignores terrain cost", "No defensive terrain penalty"],
+    },
+  {
+		"name": "Protéger de l'oligarque",
+		"uniques": ["Ignores terrain cost", "No defensive terrain penalty"],
     }
 ]
