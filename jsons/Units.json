@@ -96,9 +96,9 @@
 		"unitType": "Civilian",
 		"uniqueTo": "La Gaule",
 		"replaces": "Great Prophet",
-		"uniques": ["Can instantly construct a [Holy site] improvement <by consuming this unit>","Can Spread Religion <for [0] movement> <[3] times> <after which this unit is consumed>","Removes other religions when spreading religion","May found a religion <by consuming this unit> <if it hasn't used other actions yet>","May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>","May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]","Unbuildable", "Religious Unit","Takes your religion over the one in their birth city"],
-		"movement": 1,
-		"religiousStrength": 1400
+		"uniques": ["Can instantly construct a [Holy site] improvement <by consuming this unit>","Can Spread Religion <for [0] movement> <[5] times> <after which this unit is consumed>","Removes other religions when spreading religion","May found a religion <by consuming this unit> <if it hasn't used other actions yet>","May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>","May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]","Unbuildable", "Religious Unit","Takes your religion over the one in their birth city","Can hurry technology research <upon enhancing a Religion>","Can hurry technology research <upon founding a Pantheon>"],
+		"movement": 2,
+		"religiousStrength": 1100
 
 
 // doctrine 
