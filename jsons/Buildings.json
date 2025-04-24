@@ -244,6 +244,6 @@
   "culture": 2,
   "happiness": 1,
   "cost": 110,
-  "uniques" :["Unbuildable <before adopting [Oligarchie]>","Limited to [5] per Civilization","Indicates the capital city"],
+  "uniques" :["Unbuildable <before adopting [Oligarchie]>","Limited to [4] per Civilization","Indicates the capital city"],
 }
 ]
