@@ -1,4 +1,4 @@
-[
+8[
   {
 		"name": "Site Sacré",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -12,7 +12,7 @@
   "faith": 2,
 		"turnsToBuild": 9,
 		"techRequired": "Construction",
-		"uniques": ["[+1 Production] <after discovering [Scientific Theory]>","[+1 Faith] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+15 Gold]"],
+		"uniques": ["[+1 Production] <after discovering [Scientific Theory]>","[+1 Faith] <after discovering [Theology]>", "Pillaging this improvement yields approximately [+15 Gold]"],
 		"shortcutKey": "L"
 	}
 ]
