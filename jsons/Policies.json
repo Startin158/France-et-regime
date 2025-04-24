@@ -170,48 +170,48 @@
         "uniques": ["[+2] [Happiness] from every [Villa de l'oligarque]","[+2] [Happiness] from every [Palace]"]
         "policies": [
             {
-                "name": "Émergence des oligarque",
+                "name": "Émergence des oligarques",
                 "row": 1,
                 "column": 4
             },
             {
                 "name": "Économie concentré par eux",
-                "uniques": ["[-74]% [Gold] <in all cities>","[+237]% [Gold] from every [Villa de l'oligarque]","[+237]% [Gold] from every [Palace]"],
-                "requires": ["Émergence des oligarque"],
+                "uniques": ["[-74]% [Gold] <in all cities>","[+237]% [Gold] from every [Villa de l'oligarque]","[+237]% [Gold] from every [Palace]","[-237]% [Gold] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-200]% [Gold] from every [Palace] <when below [-12] Happiness>"],
+                "requires": ["Émergence des oligarques"],
                 "row": 2,
                 "column": 1
             },
             {
                 "name": "Production à leurs service",
-                "uniques": ["[-74]% [Production] <in all cities>","[+237]% [Production] from every [Villa de l'oligarque]","[+237]% [Production] from every [Palace]"],
-                "requires": ["Émergence des oligarque"],
+                "uniques": ["[-74]% [Production] <in all cities>","[+237]% [Production] from every [Villa de l'oligarque]","[+237]% [Production] from every [Palace]","[-237]% [Production] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-200]% [Production] from every [Palace] <when below [-12] Happiness>"],
+                "requires": ["Émergence des oligarques"],
                 "row": 2,
                 "column": 6
             },
             {
                 "name": "Puissance utilisé par eux",
                 "uniques": [],
-                "requires": ["Émergence des oligarque"],
+                "requires": ["Émergence des oligarques"],
                 "row": 2,
                 "column": 4
             },
             {
                 "name": "Science financé par eux",
-                "uniques": ["[-74]% [Science] <in all cities>","[+237]% [Science] from every [Villa de l'oligarque]","[+237]% [Science] from every [Palace]"],
+                "uniques": ["[-74]% [Science] <in all cities>","[+237]% [Science] from every [Villa de l'oligarque]","[+237]% [Science] from every [Palace]","[-237]% [Science] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-200]% [Science] from every [Palace] <when below [-12] Happiness>"],
                 "requires": ["Économie concentré par eux"],
                 "row": 3,
                 "column": 1
             },
             {
                 "name": "Culture instrumentalisé par eux",
-                "uniques": ["[-74]% [Culture] <in all cities>","[+237]% [Culture] from every [Villa de l'oligarque]","[+237]% [Culture] from every [Palace]"],
+                "uniques": ["[-74]% [Culture] <in all cities>","[+237]% [Culture] from every [Villa de l'oligarque]","[+237]% [Culture] from every [Palace]","[-237]% [Culure] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-200]% [Culture] from every [Palace] <when below [-12] Happiness>"],
                 "requires": ["Production à leurs service"],
                 "row": 3,
                 "column": 6
             },
             {
                 "name": "Contrôle de la population par les oligarques",
-                "uniques": ["[-50]% [Happiness] <in all cities>","[+140]% [Happiness] from every [Villa de l'oligarque]","[+140]% [Happiness] from every [Palace]"],
+                "uniques": ["[-50]% [Happiness] <in all cities>","[+100]% [Happiness] from every [Villa de l'oligarque]","[+150]% [Happiness] from every [Palace]"],
                 "requires": ["Production au service des oligarque"],
                 "row": 3,
                 "column": 6
@@ -219,7 +219,7 @@
             
 {
                 "name": "Oligarchie Complete",
-                "uniques": ["[-50]% [Food] <in all cities>","[+100]% [Food] from every [Villa de l'oligarque]","[+100]% [Food] from every [Palace]"]
+                "uniques": ["[-50]% [Food] <in all cities>","[+100]% [Food] from every [Villa de l'oligarque]","[+125]% [Food] from every [Palace]"]
             }
         ]
 
