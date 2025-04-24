@@ -175,7 +175,7 @@
             },
             {
                 "name": "économie concentré par oligarque",
-                "uniques": [[200]% [Gold] [Capital]","[+5]% [Happiness] [in all cities]"],
+                "uniques": [[225]% [Gold] [Capital]","[66]% [Gold] <in [in all cities] cities> <if [Palace] is not constructed>","[66]% [Gold] <in [in all cities] cities> <if [Palace] is not constructed>"],
                 "requires": ["Émergence des oligarque"],
                 "row": 1,
                 "column": 3
