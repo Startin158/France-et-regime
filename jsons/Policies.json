@@ -176,14 +176,14 @@
             },
             {
                 "name": "Économie concentré par eux",
-                "uniques": ["[-74]% [Gold] <in all cities>","[+237]% [Gold] from every [Villa de l'oligarque]","[+237]% [Gold] from every [Palace]","[-237]% [Gold] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-200]% [Gold] from every [Palace] <when below [-12] Happiness>"],
+                "uniques": ["[-74]% [Gold] <in all cities>","[+237]% [Gold] from every [Villa de l'oligarque]","[+237]% [Gold] from every [Palace]","[-100]% [Gold] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-113]% [Gold] from every [Palace] <when below [-12] Happiness>"],
                 "requires": ["Émergence des oligarques"],
                 "row": 2,
                 "column": 1
             },
             {
                 "name": "Production à leurs service",
-                "uniques": ["[-74]% [Production] <in all cities>","[+237]% [Production] from every [Villa de l'oligarque]","[+237]% [Production] from every [Palace]","[-237]% [Production] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-200]% [Production] from every [Palace] <when below [-12] Happiness>"],
+                "uniques": ["[-74]% [Production] <in all cities>","[+237]% [Production] from every [Villa de l'oligarque]","[+237]% [Production] from every [Palace]","[-58]% [Production] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-63]% [Production] from every [Palace] <when below [-12] Happiness>"],
                 "requires": ["Émergence des oligarques"],
                 "row": 2,
                 "column": 6
@@ -197,14 +197,14 @@
             },
             {
                 "name": "Science financé par eux",
-                "uniques": ["[-74]% [Science] <in all cities>","[+237]% [Science] from every [Villa de l'oligarque]","[+237]% [Science] from every [Palace]","[-237]% [Science] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-200]% [Science] from every [Palace] <when below [-12] Happiness>"],
+                "uniques": ["[-74]% [Science] <in all cities>","[+237]% [Science] from every [Villa de l'oligarque]","[+237]% [Science] from every [Palace]","[-100]% [Science] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-113]% [Science] from every [Palace] <when below [-12] Happiness>"],
                 "requires": ["Économie concentré par eux"],
                 "row": 3,
                 "column": 1
             },
             {
                 "name": "Culture instrumentalisé par eux",
-                "uniques": ["[-74]% [Culture] <in all cities>","[+237]% [Culture] from every [Villa de l'oligarque]","[+237]% [Culture] from every [Palace]","[-237]% [Culure] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-200]% [Culture] from every [Palace] <when below [-12] Happiness>"],
+                "uniques": ["[-74]% [Culture] <in all cities>","[+237]% [Culture] from every [Villa de l'oligarque]","[+237]% [Culture] from every [Palace]","[-100]% [Culure] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-113]% [Culture] from every [Palace] <when below [-12] Happiness>"],
                 "requires": ["Production à leurs service"],
                 "row": 3,
                 "column": 6
@@ -212,9 +212,9 @@
             {
                 "name": "Contrôle de la population par les oligarques",
                 "uniques": ["[-50]% [Happiness] <in all cities>","[+100]% [Happiness] from every [Villa de l'oligarque]","[+150]% [Happiness] from every [Palace]"],
-                "requires": ["Production au service des oligarque"],
+                "requires": ["Culture instrumentalisé par eux","Science financé par eux"],
                 "row": 3,
-                "column": 6
+                "column": 4
             },
             
 {
