@@ -152,6 +152,86 @@
 
 
 
+
+//oligarchie 
+
+
+
+ {
+        "name": "Oligarchie",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 4,
+            "Cultural": 2,
+            "Diplomatic": 7,
+            "Domination": 8,
+            "Scientific": 4
+        },
+        ],
+        "policies": [
+            {
+                "name": "Émergence des oligarque",
+                "row": 4,
+                "column": 1
+            },
+            {
+                "name": "Suffrage",
+                "uniques": ["[+1 Happiness] per [12] population [in all cities]","[+5]% [Happiness] [in all cities]"],
+                "requires": ["Émergence des oligarque"],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Croyances au système",
+                "uniques": [
+                    "[+50]% Strength for cities","[100]% Strength <for units without [Agressif]> <when defending>",
+                    "[+10]% weight to this choice for AI decisions"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Pluralisme",
+                "uniques": [
+                    "[+5]% [Culture] [in all cities]","[+5]% [Science] [in all cities]"]
+                "requires": ["Pratiques démocratique"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Suffrage universel",
+                "uniques": [
+                    "[+2 Gold] per [12] population [in all cities]","[+1 Happiness] per [12] population [in all cities]"]
+                "requires": ["Suffrage"],
+                "row": 2,
+                "column": 3
+            },
+  {
+                "name": "Aménagement",
+                "uniques": [
+                    "[+2 Production] per [10] population [in all cities]","May buy [Lieu démocratique] buildings with [Gold] for [2] times their normal Production cost"]
+                "requires": ["Suffrage universel"],
+                "requires": ["Pluralisme"],
+                "row": 3,
+                "column": 2
+            },
+{
+                "name": "Engagement citoyen",
+                "uniques": [
+                    "[+25]% Strength for cities","May buy [Civil guerrier] units with [Gold] for [2] times their normal Production cost"]
+                "requires": ["Croyances au système"],
+                "row": 3,
+                "column": 5
+
+    },     
+{
+                "name": "Démocratie Complete",
+                "uniques": ["[+15]% growth [in all cities]","Gain a free [Gouvernement] [in capital]"]
+            }
+        ]
+
+
+
 // Communisme 
 
 
