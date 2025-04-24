@@ -175,7 +175,7 @@
             },
             {
                 "name": "économie concentré par oligarque",
-                "uniques": ["[-75]% [Gold] <in all cities>","[+225]% [Gold] from every [Villa de l'oligarque]","[+250]% [Gold] from every [Palace]"],
+                "uniques": ["[-74]% [Gold] <in all cities>","[+237]% [Gold] from every [Villa de l'oligarque]","[+237]% [Gold] from every [Palace]"],
                 "requires": ["Émergence des oligarque"],
                 "row": 2,
                 "column": 1
@@ -183,7 +183,7 @@
             
 {
                 "name": "Oligarchie Complete",
-                "uniques": ["[-25]% [Food] <in [in all cities] cities> <if [Palace] is not constructed>","[-25]% [Food] <in [in all cities] cities> <if [Villa de l'oligarque] is not constructed>","[+100]% [Food] <in [in all cities] cities> <if [Palace] is constructed>","[+100]% [Food] <in [in all cities] cities> <if [Villa de l'oligarque] is constructed>"]
+                "uniques": ["[-50]% [Food] <in all cities>","[+100]% [Food] from every [Villa de l'oligarque]","[+100]% [Food] from every [Palace]"
             }
         ]
 
