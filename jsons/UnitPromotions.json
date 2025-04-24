@@ -12,7 +12,7 @@
     },
    {
 		"name": "Fureur guerrière",
-		"uniques": ["Ignores terrain cost", "No defensive terrain penalty"],
+		"uniques": ["Earn [20]% of killed [All] unit's [Strength] as [Faith]","Heals [20] damage if it kills a unit"],
     },
   {
 		"name": "Protéger de l'oligarque",
