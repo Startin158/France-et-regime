@@ -82,7 +82,7 @@
         ]
 
 
-
+//totalitarisme 
 
 
 
@@ -152,7 +152,7 @@
 
 
 
-
+// Communisme 
 
 
 
@@ -212,6 +212,13 @@
                 "uniques": ["[+1 Production] from all [Happiness] buildings","[+1 Production] from all [Gold] buildings","[+1 Happiness] from [Trading post] tiles [in all cities]","[+1 Production] from [Trading post] tiles [in all cities]"]
             }
         ]
+
+
+
+//capitalisme 
+
+
+
      },
 {
         "name": "Capitalisme",
