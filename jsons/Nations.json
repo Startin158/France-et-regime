@@ -189,7 +189,7 @@
         "outerColor": [ 255, 20, 20],
         "innerColor": [40,5,8],
 		"uniquenames": "L'état égalitaire.",
-  "uniques": ["[+1 Food] from [Farm] tiles [in all cities]","[+1 Production] from [Mine] tiles [in all cities]",""]
+  "uniques": ["[+1 Food] from [Farm] tiles [in all cities]","[+1 Production] from [Mine] tiles [in all cities]","May choose [2] additional belief(s) of any type when [founding] a religion"]
 		"cities": ["Paris","Lyon", "Marseille","Bordeaux","Toulouse","Nantes","Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy","Limoges","Poitiers","La-Rochelle"]
 "spyNames": ["Jean-Paul","Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	}
