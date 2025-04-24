@@ -136,7 +136,7 @@
 
 		"hateHello": "Tyran privilégié, sans priviléges vous n'êtes rien.",
 		"hateLetsHearIt": ["On ne commerce pas avec vous.","N'essayez pas de corrompre notre utopie avec votre or.","Partez."],
-		"hateNo": ["Npus ne commençons pas avec des tyrans de votre sorte.","Allez vous en"],
+		"hateNo": ["Nous ne commençons pas avec des tyrans de votre sorte.","Allez vous en"],
 		"hateYes": ["Bon... d'accord.","...","Quelle honte, commercer avec vous..."],
 		
 		"afterPeace": "Vous essayer vraiment de détruire notre utopie ? Vous allez constater ce qui arrive à nos opposants .",
@@ -177,18 +177,18 @@
 		"neutralNo": ["Nous ne pouvons pas accepter.","Il faut refusé votre demande "],
 		"neutralYes": ["C'est une proposition intéressante.","Avec plaisir."],
 
-		"hateHello": "Tyran privilégié, sans priviléges vous n'êtes rien.",
-		"hateLetsHearIt": ["On ne commerce pas avec vous.","N'essayez pas de corrompre notre utopie avec votre or.","Partez."],
-		"hateNo": ["Npus ne commençons pas avec des tyrans de votre sorte.","Allez vous en"],
-		"hateYes": ["Bon... d'accord.","...","Quelle honte, commercer avec vous..."],
+		"hateHello": "Vous oppressez vos peuple.Vous mérité de chuter ",
+		"hateLetsHearIt": ["Aucun valeureux gaulois ne commencerai avec vous.","Ne dites rien, nous allons refuser .","Silence."],
+		"hateNo": ["Non.","Allez vous en"],
+		"hateYes": ["Bon... d'accord.","...","..."],
 		
-		"afterPeace": "Vous essayer vraiment de détruire notre utopie ? Vous allez constater ce qui arrive à nos opposants .",
-		"tradeRequest": "Nous aimerions commercer.",
+		"afterPeace": "Je m'en doutais, vous n'êtes  qu'un traître.",
+		"tradeRequest": "Nous avons une offre à vous faire.",
 
 		
         "outerColor": [ 255, 20, 20],
         "innerColor": [40,5,8],
-		"uniquenames": "L'état égalitaire.",
+		"uniquenames": "Les tribus gauloises.",
   "uniques": ["[+1 Food] from [Farm] tiles [in all cities]","[+1 Production] from [Mine] tiles [in all cities]","May choose [2] additional belief(s) of any type when [founding] a religion","[+100 Faith]"]
 		"cities": ["Paris","Lyon", "Marseille","Bordeaux","Toulouse","Nantes","Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy","Limoges","Poitiers","La-Rochelle"]
 "spyNames": ["Jean-Paul","Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
