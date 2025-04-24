@@ -1,6 +1,6 @@
 [
   {
-		"name": "Sacré site",
+		"name": "Site Sacré",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement", "Removes removable features when built", "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+50 Gold]","[+1 Faith] <in [Snow] tiles> ","[+5 Science] <in [Snow] tiles> ","[+2 Faith] <in [Tundra] tiles> ","[+4 Science] <in [Tundra] tiles> ","[+3 Faith] <in [Grassland] tiles> ","[+3 Science] <in [Grassland] tiles>","[+4 Faith] <in [Plains] tiles> ","[+2 Science] <in [Plains] tiles> ","[+5 Faith] <in [Desert] tiles> ","[+1 Science] <in [Desert] tiles> ","Provides [1] [Porcelain] <in [Tundra] tiles>","Provides [1] [Porcelain] <in [Snow] tiles>","Provides [1] [Jewelry] <in [Desert] tiles>","Provides [1] [Jewelry] <in [Plains] tiles>","[+1 Happiness] <in [Grassland] tiles> "]
  	}
