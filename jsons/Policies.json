@@ -171,6 +171,7 @@
         "policies": [
             {
                 "name": "Émergence des oligarques",
+                "uniques": ["May buy [Villa de l'oligarque] buildings with [Faith] for [2] times their normal Production cost"]
                 "row": 1,
                 "column": 4
             },
