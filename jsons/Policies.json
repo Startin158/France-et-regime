@@ -167,7 +167,7 @@
             "Domination": 8,
             "Scientific": 4
         },
-        "uniques": ["[+2] [Happiness] from every [Villa de l'oligarque]","[+2] [Happiness] from every [Palace]"]
+        "uniques": ["[+2 Happiness] from every [Villa de l'oligarque]","[+2 Happiness] from every [Palace]"]
         "policies": [
             {
                 "name": "Émergence des oligarques",
