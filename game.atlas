@@ -39,6 +39,7 @@ BuildingIcons/Barricade imprenable
   orig: 700, 700
   offset: 0, 0
   index: -1
+
 zNegaux.png
 size: 700, 700
 format: RGBA8888
@@ -51,6 +52,7 @@ NationIcons/République des Égaux
   orig: 700, 700
   offset: 0, 0
   index: -1
+
 zNroyaume.png
 size: 700, 700
 format: RGBA8888
@@ -63,6 +65,7 @@ NationIcons/Royaume de France
   orig: 700, 700
   offset: 0, 0
   index: -1
+
 zNrepublique.png
 size: 700, 700
 format: RGBA8888
@@ -75,7 +78,8 @@ NationIcons/"Première République Française
   orig: 700, 700
   offset: 0, 0
   index: -1
-zNgaule.png
+
+gaule.png
 size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
