@@ -12,6 +12,6 @@
     },
   {
 		"name": "Protéger de l'oligarque",
-		"uniques": ["Ignores terrain cost", "No defensive terrain penalty"],
+		"uniques": ["Heals [15] damage if it kills a unit", "[+33]% XP gained from combat"],
     }
 ]
