@@ -109,6 +109,9 @@
 		"cities": ["Paris","Versailles","Lyon", "Marseille","Bordeaux","Toulouse","Nantes","Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy"]
 "spyNames": ["Louis","Marie","Jean","Pierre","Anne","François","Jacques","Claude","Marguerite", "Henri"]
 	},
+
+
+
 //La république des égaux n'a jamais existé, car la faction babouviste n'a pas réussi son coup d'état.Karl Marx reconnait en la Conjuration des Égaux « la première apparition d'un parti communiste réellement agissant»
 
 {
@@ -117,6 +120,46 @@
 		"adjective": ["État communiste "],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "la révolution à apporter la démocratie, notre révolution apporte une démocratie égalitaire.",
+		"startIntroPart2": "La démocratie doit être totalement égalitaire, ils faut abolir tous ce qui nuit à l'égalité pour le bien de chacun.",
+		
+		"declaringWar": "Votre état ne traite pas tous son peuple de manière égalitaire, nous vous envahir pour abolir les privilèges et liberer votre peuple",
+		"attacked": "Vous allez regretter de nous avoir attaqué, nous nous batterons tous, unis contre votre tyrannie",
+		"defeated": "Vous nous avez vaincus ? Vous avez détruit notre utopie. Vous êtes un monstre...",
+		"introduction": "Nous souhaitons créee un monde sans inégalités, ou chacun est réellement égal, suivrirez-vous nous ?",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Je vous écoutes.","De quoi avet vous besoin ?","Nous sommes prêt à vous écouter."],
+		"neutralNo": ["Il nous est impossible d'accepter.","Nous devons refusé votre requête ","C'est non, désolé."],
+		"neutralYes": ["Nous acceptons ce marché.","Cela peut renforcer nos deux pays.","Ça va être utile pour notre nation ."],
+
+		"hateHello": "Tyran privilégié, sans priviléges vous n'êtes rien.",
+		"hateLetsHearIt": ["On ne commerce pas avec vous.","N'essayez pas de corrompre notre utopie avec votre or.","Partez."],
+		"hateNo": ["Npus ne commençons pas avec des tyrans de votre sorte.","Allez vous en"],
+		"hateYes": ["Bon... d'accord.","...","Quelle honte, commercer avec vous..."],
+		
+		"afterPeace": "Vous essayer vraiment de détruire notre utopie ? Vous allez constater ce qui arrive à nos opposants .",
+		"tradeRequest": "Nous aimerions commercer.",
+
+		
+        "outerColor": [ 255, 20, 20],
+        "innerColor": [40,5,8],
+		"uniquenames": "L'état égalitaire.",
+  "uniques": ["[+1 Happiness] [in all cities]","[35]% growth [in all cities] <during a Golden Age>","Adopt [Communisme]"]
+		"cities": ["Paris","Lyon", "Marseille","Bordeaux","Toulouse","Nantes","Rouen","Lille","Strasbourg","Dijon","Rennes","Grenoble","Reims","Orléans","Tours","Amiens","Montpellier","Brest","Le Havre","Caen", "Angers","Nîmes","Limoges","Clermont-Ferrand","Metz","Besançon","Aix-en-Provence","Troyes","Nancy","Limoges","Poitiers","La-Rochelle"]
+"spyNames": ["Jean-Paul","Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
+	},
+
+
+//La Gaule 
+
+{
+		"name": "La Gaule",
+		"leaderName": "Gracchus Babeuf",
+		"adjective": ["Ensemble de tribus"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "la révolution à apporter la démocratie, notre révolution apporte une démocratie égalitaire.",
 		"startIntroPart2": "La démocratie doit être totalement égalitaire, ils faut abolir tous ce qui nuit à l'égalité pour le bien de chacun.",
