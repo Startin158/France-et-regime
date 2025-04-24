@@ -173,7 +173,7 @@
                 "name": "Émergence des oligarques",
                 "uniques": ["May buy [Villa de l'oligarque] buildings with [Faith] for [2] times their normal Production cost"]
                 "row": 1,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Économie concentré par eux",
@@ -187,14 +187,14 @@
                 "uniques": ["[-74]% [Production] <in [all cities] cities>","[+237]% [Production] from every [Villa de l'oligarque]","[+237]% [Production] from every [Palace]","[-58]% [Production] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-63]% [Production] from every [Palace] <when below [-12] Happiness>"],
                 "requires": ["Émergence des oligarques"],
                 "row": 2,
-                "column": 6
+                "column": 5
             },
             {
                 "name": "Puissance utilisé par eux",
                 "uniques": ["All newly-trained [Military] units [in this city] receive the [Protéger de l'oligarque] promotion <if [Palace] is constructed>","All newly-trained [Military] units [in this city] receive the [Protéger de l'oligarque] promotion <if [Villa de l'oligarque] is constructed>"],
                 "requires": ["Émergence des oligarques"],
                 "row": 2,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Science financé par eux",
@@ -208,14 +208,14 @@
                 "uniques": ["[-74]% [Culture] <in [all cities] cities>","[+237]% [Culture] from every [Villa de l'oligarque]","[+237]% [Culture] from every [Palace]","[-100]% [Culture] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-113]% [Culture] from every [Palace] <when below [-12] Happiness>"],
                 "requires": ["Production à leurs service"],
                 "row": 3,
-                "column": 6
+                "column": 5
             },
             {
                 "name": "Contrôle de la population par les oligarques",
                 "uniques": ["[-50]% [Happiness] <in [all cities] cities>","[+100]% [Happiness] from every [Villa de l'oligarque]","[+150]% [Happiness] from every [Palace]"],
                 "requires": ["Culture instrumentalisé par eux","Science financé par eux"],
-                "row": 3,
-                "column": 4
+                "row": 4,
+                "column": 3
             },
             
 {
