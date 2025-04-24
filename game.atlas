@@ -11,7 +11,6 @@ BuildingIcons/Petite barricade
   orig: 700, 700
   offset: 0, 0
   index: -1
-
 BuildingIcons/Barricade
   rotate: false
   xy: 0, 50
@@ -19,7 +18,6 @@ BuildingIcons/Barricade
   orig: 700, 700
   offset: 0, 0
   index: -1
-
 BuildingIcons/Barricade conséquente
   rotate: false
   xy: 0, 50
@@ -27,7 +25,6 @@ BuildingIcons/Barricade conséquente
   orig: 700, 700
   offset: 0, 0
   index: -1
-
 BuildingIcons/Barricade gigantesque
   rotate: false
   xy: 0, 50
@@ -35,7 +32,6 @@ BuildingIcons/Barricade gigantesque
   orig: 700, 700
   offset: 0, 0
   index: -1
-
 BuildingIcons/Barricade imprenable 
   rotate: false
   xy: 0, 50
@@ -43,10 +39,6 @@ BuildingIcons/Barricade imprenable
   orig: 700, 700
   offset: 0, 0
   index: -1
-
-
-
-
 zNegaux.png
 size: 700, 700
 format: RGBA8888
@@ -59,7 +51,6 @@ NationIcons/République des Égaux
   orig: 700, 700
   offset: 0, 0
   index: -1
-
 zNroyaume.png
 size: 700, 700
 format: RGBA8888
@@ -72,7 +63,6 @@ NationIcons/Royaume de France
   orig: 700, 700
   offset: 0, 0
   index: -1
-
 zNrepublique.png
 size: 700, 700
 format: RGBA8888
@@ -85,7 +75,6 @@ NationIcons/"Première République Française
   orig: 700, 700
   offset: 0, 0
   index: -1
-
 zNgaule.png
 size: 700, 700
 format: RGBA8888
