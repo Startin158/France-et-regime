@@ -2,6 +2,6 @@
   {
 		"name": "Sacré site",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Great Improvement", "Removes removable features when built", "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+50 Gold]","Pillaging this improvement yields approximately [-10 Faith]","[+1 Faith] <in [Snow] tiles> ","[+5 Science] <in [Snow] tiles> ","[+2 Faith] <in [Tundra] tiles> ","[+4 Science] <in [Tundra] tiles> ","[+3 Faith] <in [Grassland] tiles> ","[+3 Science] <in [Grassland] tiles>","[+4 Faith] <in [Plains] tiles> ","[+2 science] <in [Plains] tiles> ","[+5 Faith] <in [Desert] tiles> ","[+1 Science] <in [Desert] tiles> "]
+		"uniques": ["Great Improvement", "Removes removable features when built", "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+50 Gold]","Pillaging this improvement yields approximately [-10 Faith]","[+1 Faith] <in [Snow] tiles> ","[+5 Science] <in [Snow] tiles> ","[+2 Faith] <in [Tundra] tiles> ","[+4 Science] <in [Tundra] tiles> ","[+3 Faith] <in [Grassland] tiles> ","[+3 Science] <in [Grassland] tiles>","[+4 Faith] <in [Plains] tiles> ","[+2 science] <in [Plains] tiles> ","[+5 Faith] <in [Desert] tiles> ","[+1 Science] <in [Desert] tiles> ","Provides [1] [Porcelain] <in [Tundra] tiles>","Provides [1] [Porcelain] <in [Snow] tiles>"]
  	}
 ]
