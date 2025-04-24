@@ -43,6 +43,7 @@
   "replaces": "Walls",
   "uniqueTo": "Commune de Paris"
   "happiness": 1,
+  "production": 1,
 		"cityStrength": 7,
 		"cityHealth": 55,
 		"hurryCostModifier":30,
@@ -55,6 +56,7 @@
   "replaces": "Castle",
   "uniqueTo": "Commune de Paris"
   "happiness": 1,
+  "production": 1,
 		"cityStrength": 9,
 		"cityHealth": 30,
 		"hurryCostModifier": 30,
@@ -68,6 +70,7 @@
   "replaces": "Arsenal",
   "uniqueTo": "Commune de Paris"
   "happiness": 1,
+  "production": 1,
 		"cost": 120,
 		"cityStrength": 12,
 		"cityHealth": 35,
@@ -81,6 +84,7 @@
   "replaces": "Military Base",
   "uniqueTo": "Commune de Paris"
   "happiness": 1,
+  "production": 1,
   "cost": 180,
 		"cityStrength": 15,
 		"cityHealth": 32,
@@ -94,6 +98,7 @@
   "replaces": "Bomb Shelter",
   "uniqueTo": "Commune de Paris"
   "happiness": 1,
+  "production": 1,
 		"cost": 300,
   "cityStrength": 10,
 		"cityHealth": 20,
@@ -244,6 +249,6 @@
   "culture": 2,
   "happiness": 1,
   "cost": 110,
-  "uniques" :["Unbuildable <before adopting [Émergence des oligarques]>","Limited to [4] per Civilization","Indicates the capital city"],
+  "uniques" :["Unbuildable <before adopting [Émergence des oligarques]>","Limited to [5] per Civilization","Indicates the capital city"],
 }
 ]
