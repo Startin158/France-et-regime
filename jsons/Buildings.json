@@ -216,6 +216,7 @@
 { 
 // doctrine 
 //démocratie 
+
 "name": "Lieu démocratique",
 		"maintenance": 2,
   "cost": 250,
@@ -234,5 +235,15 @@
   "production": 2,
   "cost": 0,
   "uniques" :["[50]% Great Person generation [in this city]","Unbuildable"],
+},
+
+//oligarchie 
+
+{
+"name": "Villa de l'oligarque",
+  "culture": 2,
+  "happiness": 1,
+  "cost": 110,
+  "uniques" :["Unbuildable <before adopting [Oligarchie]>","Limited to [5] per Civilization <before adopting [Tradition]>"],
 }
 ]
