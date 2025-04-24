@@ -174,8 +174,8 @@
                 "column": 1
             },
             {
-                "name": "Suffrage",
-                "uniques": ["[+1 Happiness] per [12] population [in all cities]","[+5]% [Happiness] [in all cities]"],
+                "name": "économie concentré par oligarque",
+                "uniques": [[200]% [Gold] [Capital]","[+5]% [Happiness] [in all cities]"],
                 "requires": ["Émergence des oligarque"],
                 "row": 1,
                 "column": 3
