@@ -190,7 +190,7 @@
             },
             {
                 "name": "Puissance utilisé par eux",
-                "uniques": [],
+                "uniques": ["All newly-trained [Military] units [in this city] receive the [Protéger de l'oligarque] promotion <if [Palace] is constructed>","All newly-trained [Military] units [in this city] receive the [Protéger de l'oligarque] promotion <if [Villa de l'oligarque] is constructed>"],
                 "requires": ["Émergence des oligarques"],
                 "row": 2,
                 "column": 4
