@@ -205,7 +205,7 @@
             },
             {
                 "name": "Culture instrumentalisé par eux",
-                "uniques": ["[-74]% [Culture] <in all cities>","[+237]% [Culture] from every [Villa de l'oligarque]","[+237]% [Culture] from every [Palace]","[-100]% [Culure] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-113]% [Culture] from every [Palace] <when below [-12] Happiness>"],
+                "uniques": ["[-74]% [Culture] <in all cities>","[+237]% [Culture] from every [Villa de l'oligarque]","[+237]% [Culture] from every [Palace]","[-100]% [Culture] from every [Villa de l'oligarque] <when below [-6] Happiness>","[-113]% [Culture] from every [Palace] <when below [-12] Happiness>"],
                 "requires": ["Production à leurs service"],
                 "row": 3,
                 "column": 6
