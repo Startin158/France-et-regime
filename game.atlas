@@ -7,35 +7,35 @@ repeat: none
 BuildingIcons/Petite barricade
   rotate: false
   xy: 0, 50
-  size: 650, 650
+  size: 600, 600
   orig: 700, 700
   offset: 0, 0
   index: -1
 BuildingIcons/Barricade
   rotate: false
   xy: 0, 50
-  size: 650, 650
+  size: 600, 600
   orig: 700, 700
   offset: 0, 0
   index: -1
 BuildingIcons/Barricade conséquente
   rotate: false
   xy: 0, 50
-  size: 650, 650
+  size: 600, 600
   orig: 700, 700
   offset: 0, 0
   index: -1
 BuildingIcons/Barricade gigantesque
   rotate: false
   xy: 0, 50
-  size: 650, 650
+  size: 600, 600
   orig: 700, 700
   offset: 0, 0
   index: -1
 BuildingIcons/Barricade imprenable 
   rotate: false
   xy: 0, 50
-  size: 650, 650
+  size: 600, 600
   orig: 700, 700
   offset: 0, 0
   index: -1
@@ -79,7 +79,7 @@ NationIcons/"Première République Française
   offset: 0, 0
   index: -1
 
-gaule.png
+1gaule.png
 size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
