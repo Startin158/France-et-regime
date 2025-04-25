@@ -108,7 +108,7 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
-  "uniques": ["[+1 Faith] <upon ending a turn in a [Forest] tile>","[20]% Strength <when fighting in [Forest] tiles>"]
+  "uniques": ["Gain [1] [Faith] <in [Forest] tiles>","[33]% Strength <when fighting in [Forest] tiles>"]
 		"promotions": ["Fureur guerrière"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
