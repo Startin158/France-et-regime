@@ -189,7 +189,7 @@
         "outerColor": [ 140, 140, 140],
         "innerColor": [139,69,19],
 		"uniquenames": "Les tribus gauloises.",
-  "uniques": ["[+1 Food] from [Farm] tiles [in all cities]","[+1 Production] from [Mine] tiles [in all cities]","May choose [2] additional belief(s) of any type when [founding] a religion","All newly-trained [non-air] units [in all cities] receive the [Fureur guerrière] promotion","[+1 faith] <in [Forest] tiles>","[+1 faith] <in [Forest] tiles> <after discovering [Theology]>"],
+  "uniques": ["[+1 Food] from [Farm] tiles [in all cities]","[+1 Production] from [Mine] tiles [in all cities]","May choose [2] additional belief(s) of any type when [founding] a religion","All newly-trained [non-air] units [in all cities] receive the [Fureur guerrière] promotion","[+1 Faith] <in [Forest] tiles>","[+1 Faith] <in [Forest] tiles> <after discovering [Theology]>"],
 		"cities": ["Alesia", "Avaricum", "Gergovie", "Bibracte", "Noviodunum", "Lutèce", "Cenabum", "Durocorteron", "Ratumacos", "Samarobriva", "Divodurum", "Lugudunon", "Meledunum", "Turones", "Autricum", "Darioritum", "Uxellodunum", "Vesontio", "Brenodurum", "Limonum"]
 "spyNames": ["Jean-Paul","Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	}
