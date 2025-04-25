@@ -12,10 +12,10 @@
     },
    {
 		"name": "Fureur guerrière",
-		"uniques": ["Earn [20]% of killed [All] unit's [Strength] as [Faith]","Heals [20] damage if it kills a unit"],
+		"uniques": ["Earn [10]% of killed [All] unit's [Strength] as [Culture]","Heals [10] damage if it kills a unit","[50]% XP gained from combat <in [Forest] tiles>"],
     },
   {
 		"name": "Protéger de l'oligarque",
-		"uniques": ["Heals [15] damage if it kills a unit", "[+33]% XP gained from combat"],
+		"uniques": ["Heals [20] damage if it kills a unit", "[+33]% XP gained from combat"],
     }
 ]
