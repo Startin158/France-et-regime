@@ -161,7 +161,7 @@
 		"name": "La Gaule",
 		"leaderName": "Vercingétorix",
 		"adjective": ["Ensemble de tribus"],
-		"startBias": ["Plains"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Les peuples de la Gaule sont Unis sous mon insigne",
