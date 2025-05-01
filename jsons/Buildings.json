@@ -123,7 +123,7 @@
   "cost": 100,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
-		"uniques": ["Destroyed when the city is captured","Free [Mortier] appears <in this city>"]
+		"uniques": ["Destroyed when the city is captured","Free [Cannon] appears <in this city>"]
 	},
 {
 		"name": "Château de Versailles",
