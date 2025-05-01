@@ -20,6 +20,6 @@
     },
     {
 		"name": "Croyant des bois",
-		"uniques": ["Gain [+1] [Faith] <in [Forest] tiles> <upon turn start>","Gain [+3] [Faith] <in [Forest] tiles> <upon turn start> <after discovering [Theology]>","[33]% Strength <when fighting in [Forest] tiles>"],
+		"uniques": ["Gain [+1] [Faith] <in [Forest] tiles> <upon turn start>","Gain [+3] [Faith] <in [Forest] tiles> <upon turn start> <after discovering [Theology]>","[33]% Strength <when fighting in [Forest] tiles>","Unit will heal every turn, even if it performs an action <in [Forest] tiles>","[+10] XP gained from combat <when fighting in [Forest] tiles>"],
     }
 ]
