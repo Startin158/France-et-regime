@@ -112,6 +112,21 @@
 	},
 // le Royaume de France 
 {
+		"name": "Citadelle de Vauban",
+  "replaces": "Castle",
+  "uniqueTo": "Royaume de France"
+  "happiness": 2,
+  "production": 2,
+  "culture": 4,
+		"cityStrength": 11,
+		"cityHealth": 35,
+		"hurryCostModifier": 15,
+  "cost": 100,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured","Free [Mortier] appears <in this city>"]
+	},
+{
 		"name": "Château de Versailles",
   "uniqueTo": "Royaume de France", 
 		"culture": 2,
