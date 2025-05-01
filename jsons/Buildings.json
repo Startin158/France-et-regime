@@ -101,14 +101,13 @@
   "production": 1,
 		"cost": 300,
   "cityStrength": 10,
-		"cityHealth": 20,
-		"hurryCostModifier": 20,
+		"cityHealth": 15,
+		"hurryCostModifier": 30,
 		"requiredBuilding": "Barricade gigantesque",
 		"maintenance": 1,
 		"requiredTech": "Telecommunications",
 		"uniques": ["Population loss from nuclear attacks [-90]% [in this city]",
-			"Damage to garrison from nuclear attacks [-90]% [in this city]",
-			"Only available <when nuclear weapons are enabled> <hidden from users>","Free [Mortier mortel!] appears <in this city>"]
+			"Damage to garrison from nuclear attacks [-90]% [in this city]","Free [Mortier mortel!] appears <in this city>"]
 	},
 // le Royaume de France 
 {
@@ -217,7 +216,7 @@
   "cost": 120,
   "maintenance": 1,
 		"uniques": ["[+1 Food] per [1] population [in this city]"],
-		"quote": "Il n'y a plus de monaie dans cette belle république, ainsi les revenus versé équitablement à chaque citoyen se fait en nature."
+		"quote": "Il n'y a plus de monaie dans cette belle république, ainsi les revenus versé équitablement à chaque citoyen se font en nature."
   },
 	{
 		"name": "école de l'égalité",
