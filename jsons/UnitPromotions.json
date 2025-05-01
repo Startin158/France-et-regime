@@ -20,6 +20,6 @@
     },
     {
 		"name": "Croyant des bois",
-		"uniques": ["Earn [10]% of killed [All] unit's [Strength] as [Culture]","Heals [20] damage if it kills a unit","[51]% XP gained from combat"],
+		"uniques": ["Gain [+1] [Faith] <in [Forest] tiles> <upon turn start>","Gain [+3] [Faith] <in [Forest] tiles> <upon turn start> <after discovering [Theology]>","[33]% Strength <when fighting in [Forest] tiles>"],
     }
 ]
