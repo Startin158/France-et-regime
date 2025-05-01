@@ -17,5 +17,9 @@
   {
 		"name": "Protéger de l'oligarque",
 		"uniques": ["Heals [20] damage if it kills a unit", "[+33]% XP gained from combat"],
+    },
+    {
+		"name": "Croyant des bois",
+		"uniques": ["Earn [10]% of killed [All] unit's [Strength] as [Culture]","Heals [20] damage if it kills a unit","[51]% XP gained from combat"],
     }
 ]
